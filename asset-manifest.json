@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/priconne-en-event-timer/static/css/main.ffbef8ac.chunk.css",
+    "main.js": "/priconne-en-event-timer/static/js/main.13e23905.chunk.js",
+    "main.js.map": "/priconne-en-event-timer/static/js/main.13e23905.chunk.js.map",
+    "runtime-main.js": "/priconne-en-event-timer/static/js/runtime-main.2a0c4ce9.js",
+    "runtime-main.js.map": "/priconne-en-event-timer/static/js/runtime-main.2a0c4ce9.js.map",
+    "static/js/2.7517fb3f.chunk.js": "/priconne-en-event-timer/static/js/2.7517fb3f.chunk.js",
+    "static/js/2.7517fb3f.chunk.js.map": "/priconne-en-event-timer/static/js/2.7517fb3f.chunk.js.map",
+    "static/js/3.61ddbd74.chunk.js": "/priconne-en-event-timer/static/js/3.61ddbd74.chunk.js",
+    "static/js/3.61ddbd74.chunk.js.map": "/priconne-en-event-timer/static/js/3.61ddbd74.chunk.js.map",
+    "index.html": "/priconne-en-event-timer/index.html",
+    "static/css/main.ffbef8ac.chunk.css.map": "/priconne-en-event-timer/static/css/main.ffbef8ac.chunk.css.map",
+    "static/js/2.7517fb3f.chunk.js.LICENSE.txt": "/priconne-en-event-timer/static/js/2.7517fb3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a0c4ce9.js",
+    "static/js/2.7517fb3f.chunk.js",
+    "static/css/main.ffbef8ac.chunk.css",
+    "static/js/main.13e23905.chunk.js"
+  ]
+}

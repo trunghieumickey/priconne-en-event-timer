@@ -1690,39 +1690,5 @@
             "Lima"
         ],
         "winside": "kill"
-    },
-    {
-        "winner": [
-            "Mitsuki",
-            "Saren",
-            "Ninon",
-            "Monika",
-            "Nozomi"
-        ],
-        "loser": [
-            "Yuki",
-            "Rino",
-            "Mitsuki",
-            "Yukari",
-            "Nozomi"
-        ],
-        "winside": "kill"
-    },
-    {
-        "winner": [
-            "Mitsuki",
-            "Ninon",
-            "Monika",
-            "Tamaki",
-            "Nozomi"
-        ],
-        "loser": [
-            "Saren",
-            "Illya",
-            "Yukari",
-            "Nozomi",
-            "Kuka"
-        ],
-        "winside": "kill"
     }
 ]

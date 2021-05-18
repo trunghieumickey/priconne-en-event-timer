@@ -338,17 +338,17 @@
     {
         "winner": [
             "Hatsune",
-            "Illya",
-            "Monika",
-            "Yukari",
-            "Kuka"
-        ],
-        "loser": [
-            "Hatsune",
             "Io",
             "Monika",
             "Yukari",
             "Nozomi"
+        ],
+        "loser": [
+            "Hatsune",
+            "Illya",
+            "Monika",
+            "Yukari",
+            "Kuka"
         ]
     },
     {
@@ -1976,6 +1976,150 @@
             "Ninon",
             "Nozomi",
             "Kuka"
+        ]
+    },
+    {
+        "winner": [
+            "Kyoka",
+            "Saren",
+            "Illya",
+            "Monika",
+            "Nozomi"
+        ],
+        "loser": [
+            "Maho",
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Nozomi"
+        ]
+    },
+    {
+        "winner": [
+            "Hatsune",
+            "Karyl",
+            "Akari",
+            "Kuka",
+            "Miyako"
+        ],
+        "loser": [
+            "Maho",
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Nozomi"
+        ]
+    },
+    {
+        "winner": [
+            "Hatsune",
+            "Io",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Hatsune",
+            "Karyl",
+            "Akari",
+            "Monika",
+            "Kuka"
+        ]
+    },
+    {
+        "winner": [
+            "Saren",
+            "Illya",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Hatsune",
+            "Mitsuki",
+            "Ninon",
+            "Nozomi",
+            "Kuka"
+        ]
+    },
+    {
+        "winner": [
+            "Shiori",
+            "Mitsuki",
+            "Ninon",
+            "Monika",
+            "Miyako"
+        ],
+        "loser": [
+            "Maho",
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Nozomi"
+        ]
+    },
+    {
+        "winner": [
+            "Hatsune",
+            "Illya",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Hatsune",
+            "Ninon",
+            "Tamaki",
+            "Nozomi",
+            "Kuka"
+        ]
+    },
+    {
+        "winner": [
+            "Mitsuki",
+            "Saren",
+            "Ninon",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Maho",
+            "Saren",
+            "Illya",
+            "Yukari",
+            "Nozomi"
+        ]
+    },
+    {
+        "winner": [
+            "Rino",
+            "Ninon",
+            "Monika",
+            "Nozomi",
+            "Miyako"
+        ],
+        "loser": [
+            "Maho",
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Nozomi"
+        ]
+    },
+    {
+        "winner": [
+            "Kyoka",
+            "Hatsune",
+            "Akari",
+            "Monika",
+            "Nozomi"
+        ],
+        "loser": [
+            "Maho",
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Nozomi"
         ]
     }
 ]

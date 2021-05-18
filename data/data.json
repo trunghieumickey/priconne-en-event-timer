@@ -1,23 +1,5 @@
 [
 	{
-		"event_name": "Clan Battle",
-		"start_time": "2021/04/12 13:00:00",
-		"end_time": "2021/04/17 7:59:59",
-		"icon_src": "clanbattle"
-	},
-	{
-		"event_name": "2x Normal",
-		"start_time": "2021/04/12 13:00:00",
-		"end_time": "2021/04/20 12:59:59",
-		"icon_src": "normal2"
-	},
-	{
-		"event_name": "2x Hard",
-		"start_time": "2021/04/20 13:00:00",
-		"end_time": "2021/04/24 12:59:59",
-		"icon_src": "hard2"
-	},
-	{
 		"event_name": "Free 10x Focus Pull",
 		"start_time": "2021/04/20 13:00:00",
 		"end_time": "2021/04/30 12:59:59",

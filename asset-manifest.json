@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/priconne-en-event-timer/static/css/main.7e2d7933.chunk.css",
-    "main.js": "/priconne-en-event-timer/static/js/main.21c2ebcb.chunk.js",
-    "main.js.map": "/priconne-en-event-timer/static/js/main.21c2ebcb.chunk.js.map",
+    "main.css": "/priconne-en-event-timer/static/css/main.6e62c257.chunk.css",
+    "main.js": "/priconne-en-event-timer/static/js/main.656b8a8d.chunk.js",
+    "main.js.map": "/priconne-en-event-timer/static/js/main.656b8a8d.chunk.js.map",
     "runtime-main.js": "/priconne-en-event-timer/static/js/runtime-main.4c845df4.js",
     "runtime-main.js.map": "/priconne-en-event-timer/static/js/runtime-main.4c845df4.js.map",
     "static/js/2.bfc864e3.chunk.js": "/priconne-en-event-timer/static/js/2.bfc864e3.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.c51f3b48.chunk.js": "/priconne-en-event-timer/static/js/3.c51f3b48.chunk.js",
     "static/js/3.c51f3b48.chunk.js.map": "/priconne-en-event-timer/static/js/3.c51f3b48.chunk.js.map",
     "index.html": "/priconne-en-event-timer/index.html",
-    "static/css/main.7e2d7933.chunk.css.map": "/priconne-en-event-timer/static/css/main.7e2d7933.chunk.css.map",
+    "static/css/main.6e62c257.chunk.css.map": "/priconne-en-event-timer/static/css/main.6e62c257.chunk.css.map",
     "static/js/2.bfc864e3.chunk.js.LICENSE.txt": "/priconne-en-event-timer/static/js/2.bfc864e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4c845df4.js",
     "static/js/2.bfc864e3.chunk.js",
-    "static/css/main.7e2d7933.chunk.css",
-    "static/js/main.21c2ebcb.chunk.js"
+    "static/css/main.6e62c257.chunk.css",
+    "static/js/main.656b8a8d.chunk.js"
   ]
 }

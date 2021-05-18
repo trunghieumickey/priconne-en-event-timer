@@ -2121,5 +2121,101 @@
             "Tamaki",
             "Nozomi"
         ]
+    },
+    {
+        "winner": [
+            "Kyoka",
+            "Yui",
+            "Akari",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Hatsune",
+            "Io",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ]
+    },
+    {
+        "winner": [
+            "Kokkoro",
+            "Illya",
+            "Monika",
+            "Yukari",
+            "Kuka"
+        ],
+        "loser": [
+            "Maho",
+            "Shizuru",
+            "Pecorine",
+            "Jun",
+            "Miyako"
+        ]
+    },
+    {
+        "winner": [
+            "Hatsune",
+            "Illya",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Kyoka",
+            "Karyl",
+            "Akari",
+            "Yukari",
+            "Nozomi"
+        ]
+    },
+    {
+        "winner": [
+            "Mitsuki",
+            "Saren",
+            "Ninon",
+            "Nozomi",
+            "Jun"
+        ],
+        "loser": [
+            "Mitsuki",
+            "Saren",
+            "Ninon",
+            "Tamaki",
+            "Kuka"
+        ]
+    },
+    {
+        "winner": [
+            "Saren",
+            "Illya",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Maho",
+            "Shizuru",
+            "Pecorine",
+            "Jun",
+            "Miyako"
+        ]
+    },
+    {
+        "winner": [
+            "Mitsuki",
+            "Saren",
+            "Ninon",
+            "Tamaki",
+            "Kuka"
+        ],
+        "loser": [
+            "Kyoka",
+            "Yui",
+            "Maho",
+            "Akari",
+            "Pecorine"
+        ]
     }
 ]

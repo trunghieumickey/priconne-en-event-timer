@@ -3952,5 +3952,22 @@
             "Nozomi"
         ],
         "winType": "kill"
+    },
+    {
+        "winner": [
+            "Saren",
+            "Illya",
+            "Ninon",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Ninon",
+            "Yukari",
+            "Tsumugi",
+            "Nozomi",
+            "Kuka"
+        ],
+        "winType": "kill"
     }
 ]

@@ -3969,5 +3969,209 @@
             "Kuka"
         ],
         "winType": "kill"
+    },
+    {
+        "winner": [
+            "Saren",
+            "Illya",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Rino",
+            "Illya",
+            "Yukari",
+            "Nozomi",
+            "Jun"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Hatsune",
+            "Karyl",
+            "Akari",
+            "Kuka",
+            "Miyako"
+        ],
+        "loser": [
+            "Maho",
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Saren",
+            "Illya",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Maho",
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Saren",
+            "Illya",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Rino",
+            "Yukari",
+            "Nozomi",
+            "Jun",
+            "Miyako"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Kyoka",
+            "Karyl",
+            "Akari",
+            "Kuka",
+            "Miyako"
+        ],
+        "loser": [
+            "Maho",
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Kyoka",
+            "Maho",
+            "Shiori",
+            "Monika",
+            "Kuka"
+        ],
+        "loser": [
+            "Maho",
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Yuki",
+            "Rino",
+            "Mitsuki",
+            "Yukari",
+            "Miyako"
+        ],
+        "loser": [
+            "Mitsuki",
+            "Illya",
+            "Ninon",
+            "Monika",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Maho",
+            "Shiori",
+            "Rino",
+            "Shizuru",
+            "Miyako"
+        ],
+        "loser": [
+            "Maho",
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Kyoka",
+            "Yuki",
+            "Saren",
+            "Illya",
+            "Nozomi"
+        ],
+        "loser": [
+            "Maho",
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Maho",
+            "Shiori",
+            "Monika",
+            "Nozomi",
+            "Miyako"
+        ],
+        "loser": [
+            "Maho",
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Saren",
+            "Illya",
+            "Ninon",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Ninon",
+            "Yukari",
+            "Tsumugi",
+            "Nozomi",
+            "Kuka"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Maho",
+            "Shiori",
+            "Suzuna",
+            "Monika",
+            "Miyako"
+        ],
+        "loser": [
+            "Maho",
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Nozomi"
+        ],
+        "winType": "kill"
     }
 ]

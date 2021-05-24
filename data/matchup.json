@@ -4343,5 +4343,22 @@
             "Nozomi"
         ],
         "winType": "kill"
+    },
+    {
+        "winner": [
+            "Mitsuki",
+            "Saren",
+            "Ninon",
+            "Nozomi",
+            "Jun"
+        ],
+        "loser": [
+            "Mitsuki",
+            "Ninon",
+            "Tsumugi",
+            "Nozomi",
+            "Kuka"
+        ],
+        "winType": "kill"
     }
 ]

@@ -1622,7 +1622,7 @@
             "Kuka",
             "Miyako"
         ],
-        "winType": "kill"
+        "winType": "outstat"
     },
     {
         "winner": [
@@ -6927,6 +6927,23 @@
         ],
         "loser": [
             "Hatsune",
+            "Ninon",
+            "Tamaki",
+            "Kuka",
+            "Miyako"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Maho",
+            "Hatsune",
+            "Saren",
+            "Illya",
+            "Nozomi"
+        ],
+        "loser": [
+            "Mitsuki",
             "Ninon",
             "Tamaki",
             "Kuka",

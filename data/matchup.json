@@ -6950,5 +6950,22 @@
             "Miyako"
         ],
         "winType": "kill"
+    },
+    {
+        "winner": [
+            "Maho",
+            "Ninon",
+            "Tamaki",
+            "Kuka",
+            "Miyako"
+        ],
+        "loser": [
+            "Saren",
+            "Illya",
+            "Yukari",
+            "Nozomi",
+            "Kuka"
+        ],
+        "winType": "kill"
     }
 ]

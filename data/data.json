@@ -3,13 +3,7 @@
 		"event_name": "Illya",
 		"start_time": "2021/04/28 23:00:00",
 		"end_time": "2021/05/18 22:59:59",
-		"icon_src": "banner_Illya"
-	},
-	{
-		"event_name": "Vampire Hunters with Illya",
-		"start_time": "2021/04/28 23:00:00",
-		"end_time": "2021/05/18 22:59:59",
-		"icon_src": "questevent_10003"
+		"icon_src": "banner_8"
 	},
 	{
 		"event_name": "2x Grotto",
@@ -24,10 +18,10 @@
 		"icon_src": "quest_area_012"
 	},
 	{
-		"event_name": "Tsumugi, Nozomi, Chika",
+		"event_name": "Nozomi, Chika, Tsumugi",
 		"start_time": "2021/05/18 23:00:00",
 		"end_time": "2021/06/03 22:59:59",
-		"icon_src": "banner_Tsumugi"
+		"icon_src": "banner_9"
 	},
 	{
 		"event_name": "Clan Battle",
@@ -63,7 +57,7 @@
 		"event_name": "Pecorine (Summer)",
 		"start_time": "2021/06/03 23:00:00",
 		"end_time": "2021/06/22 22:59:59",
-		"icon_src": "banner_Pecorine (Summer)"
+		"icon_src": "banner_10"
 	},
 	{
 		"event_name": "13. Dorothea Wetlands",

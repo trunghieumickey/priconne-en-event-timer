@@ -24,7 +24,7 @@
 		"event_name": "2x Dungeon",
 		"start_time": "2021/05/31 13:00:00",
 		"end_time": "2021/06/12 12:59:59",
-		"icon_src": "dungeon2",
+		"icon_src": "dungeon",
 		"event_type": "double"
 	},
 	{

@@ -18,28 +18,10 @@
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "2x Dungeon",
-		"start_time": "2021/05/31 13:00:00",
-		"end_time": "2021/06/12 12:59:59",
-		"icon_src": "dungeon"
-	},
-	{
 		"event_name": "2x Grotto",
 		"start_time": "2021/06/12 13:00:00",
 		"end_time": "2021/06/23 12:59:59",
 		"icon_src": "grotto"
-	},
-	{
-		"event_name": "Patch/Update",
-		"start_time": "2021/06/12 13:00:00",
-		"end_time": "2021/06/12 13:00:00",
-		"icon_src": "iblock"
-	},
-	{
-		"event_name": "Update 13: Dorothea Wetlands",
-		"start_time": "2021/06/12 13:00:00",
-		"end_time": "2021/06/12 13:00:00",
-		"icon_src": "quest_area_013"
 	},
 	{
 		"event_name": "Story Event",
@@ -52,5 +34,17 @@
 		"start_time": "2021/06/03 23:00:00",
 		"end_time": "2021/06/22 22:59:59",
 		"icon_src": "questevent_10004"
+	},
+	{
+		"event_name": "Patch/Update",
+		"start_time": "2021/06/23 13:00:00",
+		"end_time": "2021/06/23 13:00:00",
+		"icon_src": "iblock"
+	},
+	{
+		"event_name": "Tideborne Tower",
+		"start_time": "2021/06/23 13:00:00",
+		"end_time": "2021/06/23 13:00:00",
+		"icon_src": "extreme"
 	}
 ]

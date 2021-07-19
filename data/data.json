@@ -64,5 +64,18 @@
 		"end_time": "2021/07/28 22:59:00",
 		"icon_src": "story",
 		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/02/princess-connect-re-dives-karyl-summer-drags-in-more-summer-fun"
+	},
+	{
+		"event_name": "Clan Battle",
+		"start_time": "2021/07/25 13:00:00",
+		"end_time": "2021/07/30 07:59:59",
+		"icon_src": "iblock"
+	},
+	{
+		"event_name": "Half Anniversary #1",
+		"start_time": "2021/07/25 13:00:00",
+		"end_time": "2021/07/30 07:59:59",
+		"icon_src": "clan",
+		"link_scr": "https://twitter.com/priconne_en/status/1416083437467832323"
 	}
 ]

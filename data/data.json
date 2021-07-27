@@ -2,15 +2,15 @@
 	{
 		"event_name": "Anniversary",
 		"start_time": "2021/07/19 13:00:00",
-		"end_time": "2021/08/04 12:59:59",
+		"end_time": "2021/08/12 12:59:59",
 		"icon_src": "iblock"
 	},
 	{
 		"event_name": "Half Anniversary #1",
 		"start_time": "2021/07/19 13:00:00",
-		"end_time": "2021/08/04 12:59:59",
+		"end_time": "2021/08/12 12:59:59",
 		"icon_src": "event1",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/14/princess-connect-re-dives-half-anniversary-extravaganza"
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/27/princess-connect-re-dives-half-anniversary-festivities-continue-with-tamaki-summer"
 	},
 	{
 		"event_name": "Focus Gatcha",
@@ -26,24 +26,17 @@
 		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/02/princess-connect-re-dives-karyl-summer-drags-in-more-summer-fun"
 	},
 	{
+		"event_name": "Tamaki (Summer)",
+		"start_time": "2021/08/01 23:00:00",
+		"end_time": "2021/08/18 22:59:59",
+		"icon_src": "banner_13",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/27/princess-connect-re-dives-half-anniversary-festivities-continue-with-tamaki-summer"
+	},
+	{
 		"event_name": "Double Events",
 		"start_time": "2030/01/01 00:00:00",
 		"end_time": "2030/01/01 00:00:00",
 		"icon_src": "iblock"
-	},
-	{
-		"event_name": "2x Dungeon",
-		"start_time": "2021/07/06 13:00:00",
-		"end_time": "2021/07/19 12:59:59",
-		"icon_src": "dungeon",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/02/princess-connect-re-dives-karyl-summer-drags-in-more-summer-fun"
-	},
-	{
-		"event_name": "3x Grotto",
-		"start_time": "2021/07/19 13:00:00",
-		"end_time": "2021/07/25 12:59:59",
-		"icon_src": "3grotto",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/14/princess-connect-re-dives-half-anniversary-extravaganza"
 	},
 	{
 		"event_name": "3x Normal Quest",
@@ -51,6 +44,20 @@
 		"end_time": "2021/07/29 12:59:59",
 		"icon_src": "3normal",
 		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/14/princess-connect-re-dives-half-anniversary-extravaganza"
+	},
+	{
+		"event_name": "3x Hard Quest",
+		"start_time": "2021/07/29 13:00:00",
+		"end_time": "2021/08/04 12:59:59",
+		"icon_src": "3hard",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/27/princess-connect-re-dives-half-anniversary-festivities-continue-with-tamaki-summer"
+	},
+	{
+		"event_name": "2x Hard Dungeon",
+		"start_time": "2021/08/04 13:00:00",
+		"end_time": "2021/08/14 12:59:59",
+		"icon_src": "dungeon",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/27/princess-connect-re-dives-half-anniversary-festivities-continue-with-tamaki-summer"
 	},
 	{
 		"event_name": "Story Event",
@@ -77,5 +84,45 @@
 		"end_time": "2021/07/30 07:59:59",
 		"icon_src": "clan",
 		"link_scr": "https://twitter.com/priconne_en/status/1416083437467832323"
+	},
+	{
+		"event_name": "Battle Arena",
+		"start_time": "2021/08/16 23:00:00",
+		"end_time": "2021/08/16 23:00:00",
+		"icon_src": "iblock"
+	},
+	{
+		"event_name": "Battle Arena Reset",
+		"start_time": "2021/08/16 23:00:00",
+		"end_time": "2021/08/16 23:00:00",
+		"icon_src": "reset",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/27/princess-connect-re-dives-half-anniversary-festivities-continue-with-tamaki-summer"
+	},
+	{
+		"event_name": "Patch/Update",
+		"start_time": "2021/08/09 13:00:00",
+		"end_time": "2021/08/09 13:00:00",
+		"icon_src": "iblock"
+	},
+	{
+		"event_name": "Update 15: Thalia Volcano",
+		"start_time": "2021/08/09 13:00:00",
+		"end_time": "2021/08/09 13:00:00",
+		"icon_src": "update",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/27/princess-connect-re-dives-half-anniversary-festivities-continue-with-tamaki-summer"
+	},
+	{
+		"event_name": "Shop",
+		"start_time": "2021/08/01 23:00:00",
+		"end_time": "2021/09/04 22:59:00",
+		"icon_src": "iblock"
+	},
+	{
+		"event_name": "Limited Furniture",
+		"start_time": "2021/08/01 23:00:00",
+		"end_time": "2021/09/04 22:59:00",
+		"icon_src": "furniture",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/27/princess-connect-re-dives-half-anniversary-festivities-continue-with-tamaki-summer"
 	}
+
 ]

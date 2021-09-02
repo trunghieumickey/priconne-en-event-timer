@@ -6,18 +6,31 @@
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "Tamaki (Summer)",
-		"start_time": "2021/08/01 23:00:00",
-		"end_time": "2021/08/18 22:59:59",
-		"icon_src": "banner_13",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/27/princess-connect-re-dives-half-anniversary-festivities-continue-with-tamaki-summer"
-	},
-	{
 		"event_name": "Tomo",
 		"start_time": "2021/08/18 23:00:00",
 		"end_time": "2021/09/07 22:59:59",
 		"icon_src": "banner_14",
 		"link_scr": "https://www.crunchyroll.com/anime-news/2021/08/12/princess-connect-re-dives-new-character-brings-a-new-tomorrow"
+	},
+	{
+		"event_name": "Masuri",
+		"start_time": "2021/09/07 23:00:00",
+		"end_time": "2021/09/24 22:59:59",
+		"icon_src": "banner_15",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/09/01/princess-connect-re-dive-jumps-into-the-fray-with-new-challenges"
+	},
+	{
+		"event_name": "Tower of Lunar",
+		"start_time": "2021/09/10 13:00:00",
+		"end_time": "2021/09/15 15:59:59",
+		"icon_src": "iblock"
+	},
+	{
+		"event_name": "Tower of Lunar",
+		"start_time": "2021/09/10 13:00:00",
+		"end_time": "2021/09/15 15:59:59",
+		"icon_src": "luna",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/09/01/princess-connect-re-dive-jumps-into-the-fray-with-new-challenges"
 	},
 	{
 		"event_name": "Double Events",
@@ -26,32 +39,32 @@
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "2x Dungeon",
-		"start_time": "2021/08/04 13:00:00",
-		"end_time": "2021/08/14 12:59:59",
-		"icon_src": "dungeon",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/27/princess-connect-re-dives-half-anniversary-festivities-continue-with-tamaki-summer"
-	},
-	{
-		"event_name": "2x Grotto",
-		"start_time": "2021/08/14 13:00:00",
-		"end_time": "2021/08/25 12:59:59",
-		"icon_src": "grotto",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/08/12/princess-connect-re-dives-new-character-brings-a-new-tomorrow"
-	},
-	{
-		"event_name": "2x Normal Quest",
-		"start_time": "2021/08/25 13:00:00",
-		"end_time": "2021/08/30 12:59:59",
-		"icon_src": "normal",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/08/12/princess-connect-re-dives-new-character-brings-a-new-tomorrow"
-	},
-	{
 		"event_name": "2x Hard Quest",
 		"start_time": "2021/08/30 13:00:00",
 		"end_time": "2021/09/04 12:59:59",
 		"icon_src": "hard",
 		"link_scr": "https://www.crunchyroll.com/anime-news/2021/08/12/princess-connect-re-dives-new-character-brings-a-new-tomorrow"
+	},
+	{
+		"event_name": "2x Dungeon",
+		"start_time": "2021/09/04 13:00:00",
+		"end_time": "2021/09/10 12:59:59",
+		"icon_src": "dungeon",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/09/01/princess-connect-re-dive-jumps-into-the-fray-with-new-challenges"
+	},
+	{
+		"event_name": "2x Grotto",
+		"start_time": "2021/09/10 13:00:00",
+		"end_time": "2021/09/16 12:59:59",
+		"icon_src": "grotto",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/09/01/princess-connect-re-dive-jumps-into-the-fray-with-new-challenges"
+	},
+	{
+		"event_name": "2x Normal Quest",
+		"start_time": "2021/09/16 13:00:00",
+		"end_time": "2021/09/21 12:59:59",
+		"icon_src": "normal",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/09/01/princess-connect-re-dive-jumps-into-the-fray-with-new-challenges"
 	},
 	{
 		"event_name": "Story Event",
@@ -68,29 +81,29 @@
 	},
 	{
 		"event_name": "Clan Battle",
-		"start_time": "2021/08/25 13:00:00",
-		"end_time": "2021/08/30 07:59:59",
+		"start_time": "2021/09/18 13:00:00",
+		"end_time": "2021/09/23 07:59:59",
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "August Clan Battle",
-		"start_time": "2021/08/25 13:00:00",
-		"end_time": "2021/08/30 07:59:59",
+		"event_name": "September Clan Battle",
+		"start_time": "2021/09/18 13:00:00",
+		"end_time": "2021/09/23 07:59:59",
 		"icon_src": "clan",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/08/12/princess-connect-re-dives-new-character-brings-a-new-tomorrow"
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/09/01/princess-connect-re-dive-jumps-into-the-fray-with-new-challenges"
 	},
 	{
-		"event_name": "Battle Arena",
-		"start_time": "2021/08/16 23:00:00",
-		"end_time": "2021/08/16 23:00:00",
+		"event_name": "Patch/Update",
+		"start_time": "2021/09/07 13:00:00",
+		"end_time": "2021/09/07 13:00:00",
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "Battle Arena Reset",
-		"start_time": "2021/08/16 23:00:00",
-		"end_time": "2021/08/16 23:00:00",
-		"icon_src": "reset",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/07/27/princess-connect-re-dives-half-anniversary-festivities-continue-with-tamaki-summer"
+		"event_name": "Update 16: Themis Snowpeaks",
+		"start_time": "2021/09/07 13:00:00",
+		"end_time": "2021/09/07 13:00:00",
+		"icon_src": "update",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/09/01/princess-connect-re-dive-jumps-into-the-fray-with-new-challenges"
 	},
 	{
 		"event_name": "Shop",

@@ -65,6 +65,18 @@
 		"end_time": "2021/10/10 22:59:00",
 		"icon_src": "story",
 		"link_scr": "https://www.crunchyroll.com/anime-news/2021/09/17-1/princess-connect-re-dive-gets-halloween-celebrations-going-early"
+	},
+	{
+		"event_name": "Clan Battle",
+		"start_time": "2021/09/18 13:00:00",
+		"end_time": "2021/09/23 07:59:59",
+		"icon_src": "iblock"
+	},
+	{
+		"event_name": "September Clan Battle",
+		"start_time": "2021/09/18 13:00:00",
+		"end_time": "2021/09/23 07:59:59",
+		"icon_src": "clan",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/09/01/princess-connect-re-dive-jumps-into-the-fray-with-new-challenges"
 	}
-	
 ]

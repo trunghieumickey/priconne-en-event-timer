@@ -1,1 +1,0 @@
-https://priconne-event.herokuapp.com/index.html

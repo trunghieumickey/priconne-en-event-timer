@@ -6,25 +6,18 @@
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "Misaki (Halloween)",
-		"start_time": "2021/10/12 23:00:00",
-		"end_time": "2021/10/25 22:59:59",
-		"icon_src": "banner_17",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/10/05-1/princess-connect-re-dive-october-festivities-continue-with-misaki-halloween"
-	},
-	{
-		"event_name": "Christina",
-		"start_time": "2021/10/25 23:00:00",
-		"end_time": "2021/10/28 22:59:59",
-		"icon_src": "banner_18",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/10/19-1/princess-connect-re-dive-waltzes-into-october-with-christina-and-ruka"
-	},
-	{
 		"event_name": "Ruka",
 		"start_time": "2021/10/28 23:00:00",
 		"end_time": "2021/11/11 22:59:59",
 		"icon_src": "banner_19",
 		"link_scr": "https://www.crunchyroll.com/anime-news/2021/10/19-1/princess-connect-re-dive-waltzes-into-october-with-christina-and-ruka"
+	},
+	{
+		"event_name": "Nanaka",
+		"start_time": "2021/11/11 23:00:00",
+		"end_time": "2021/11/22 22:59:59",
+		"icon_src": "banner_20",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/11/04-1/princess-connect-re-dives-new-character-nanaka-headlines-a-magical-november"
 	},
 	{
 		"event_name": "Double Events",
@@ -33,32 +26,25 @@
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "2x Normal Quest",
-		"start_time": "2021/10/16 13:00:00",
-		"end_time": "2021/10/21 12:59:59",
-		"icon_src": "normal",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/10/05-1/princess-connect-re-dive-october-festivities-continue-with-misaki-halloween"
-	},
-	{
-		"event_name": "2x Hard Quest",
-		"start_time": "2021/10/21 13:00:00",
-		"end_time": "2021/10/26 12:59:59",
-		"icon_src": "hard",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/10/05-1/princess-connect-re-dive-october-festivities-continue-with-misaki-halloween"
-	},
-	{
-		"event_name": "2x Dungeon",
-		"start_time": "2021/10/26 13:00:00",
-		"end_time": "2021/11/04 12:59:59",
-		"icon_src": "dungeon",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/10/19-1/princess-connect-re-dive-waltzes-into-october-with-christina-and-ruka"
-	},
-	{
 		"event_name": "2x Grotto",
 		"start_time": "2021/11/04 13:00:00",
 		"end_time": "2021/11/13 12:59:59",
 		"icon_src": "grotto",
 		"link_scr": "https://www.crunchyroll.com/anime-news/2021/10/19-1/princess-connect-re-dive-waltzes-into-october-with-christina-and-ruka"
+	},
+	{
+		"event_name": "2x Normal Quest",
+		"start_time": "2021/11/13 13:00:00",
+		"end_time": "2021/11/18 12:59:59",
+		"icon_src": "normal",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/11/04-1/princess-connect-re-dives-new-character-nanaka-headlines-a-magical-november"
+	},
+	{
+		"event_name": "2x Hard Quest",
+		"start_time": "2021/11/18 13:00:00",
+		"end_time": "2021/11/23 12:59:59",
+		"icon_src": "hard",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/11/04-1/princess-connect-re-dives-new-character-nanaka-headlines-a-magical-november"
 	},
 	{
 		"event_name": "Story Event",
@@ -74,16 +60,42 @@
 		"link_scr": "https://www.crunchyroll.com/anime-news/2021/10/19-1/princess-connect-re-dive-waltzes-into-october-with-christina-and-ruka"
 	},
 	{
-		"event_name": "Clan Battle",
-		"start_time": "2021/10/20 13:00:00",
-		"end_time": "2021/10/25 07:59:59",
+		"event_name": "Patch/Update",
+		"start_time": "2021/11/11 13:00:00",
+		"end_time": "2021/11/11 13:00:00",
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "October Clan Battle",
-		"start_time": "2021/10/20 13:00:00",
-		"end_time": "2021/10/25 07:59:59",
+		"event_name": "Update 18: Phaethon Fields [N]",
+		"start_time": "2021/11/11 13:00:00",
+		"end_time": "2021/11/11 13:00:00",
+		"icon_src": "update",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/11/04-1/princess-connect-re-dives-new-character-nanaka-headlines-a-magical-november"
+	},
+	{
+		"event_name": "Tower of Luna",
+		"start_time": "2021/11/10 13:00:00",
+		"end_time": "2021/11/15 15:59:59",
+		"icon_src": "iblock"
+	},
+	{
+		"event_name": "November Luna Tower",
+		"start_time": "2021/11/10 13:00:00",
+		"end_time": "2021/11/15 15:59:59",
+		"icon_src": "luna",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/11/04-1/princess-connect-re-dives-new-character-nanaka-headlines-a-magical-november"
+	},
+	{
+		"event_name": "Clan Battle",
+		"start_time": "2021/11/17 13:00:00",
+		"end_time": "2021/11/22 07:59:59",
+		"icon_src": "iblock"
+	},
+	{
+		"event_name": "November Clan Battle",
+		"start_time": "2021/11/17 13:00:00",
+		"end_time": "2021/11/22 07:59:59",
 		"icon_src": "clan",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/10/05-1/princess-connect-re-dive-october-festivities-continue-with-misaki-halloween"
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/11/04-1/princess-connect-re-dives-new-character-nanaka-headlines-a-magical-november"
 	}
 ]

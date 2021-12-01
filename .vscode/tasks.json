@@ -1,0 +1,17 @@
+{
+    "tasks": [
+        {
+            "label": "Convert to webp",
+            "type": "shell",
+            "windows": {
+                "command": "python ${workspaceFolder}/.vscode/webp.py",
+                "args": []
+            },
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": []
+        }
+    ],
+    "version": "2.0.0"
+}

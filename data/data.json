@@ -6,18 +6,18 @@
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "Yui (New Year)",
-		"start_time": "2021/12/20 23:00:00",
-		"end_time": "2022/01/05 22:59:59",
-		"icon_src": "banner_23",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/12/14-1/princess-connect-re-dive-brings-back-the-princess-gala-to-celebrate-the-coming-new-year"
-	},
-	{
 		"event_name": "Hiyori (New Year)",
 		"start_time": "2022/01/05 23:00:00",
 		"end_time": "2022/01/18 22:59:59",
 		"icon_src": "banner_24",
 		"link_scr": "https://www.crunchyroll.com/anime-news/2021/12/29/princess-connect-re-dive-prepares-some-end-of-year-festivities"
+	},
+	{
+		"event_name": "Shizuru (Valentine)",
+		"start_time": "2022/01/18 23:00:00",
+		"end_time": "2022/02/01 22:59:59",
+		"icon_src": "banner_25",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/01/11/princess-connect-re-dive-celebrates-1-year-anniversary-with-special-campaigns"
 	},
 	{
 		"event_name": "Double Events",
@@ -26,18 +26,11 @@
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "2x Dungeon",
-		"start_time": "2021/12/21 13:00:00",
-		"end_time": "2022/01/02 12:59:59",
-		"icon_src": "dungeon",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/12/14-1/princess-connect-re-dive-brings-back-the-princess-gala-to-celebrate-the-coming-new-year"
-	},
-	{
 		"event_name": "2x Grotto",
 		"start_time": "2022/01/02 13:00:00",
 		"end_time": "2022/01/13 12:59:59",
 		"icon_src": "grotto",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/12/14-1/princess-connect-re-dive-brings-back-the-princess-gala-to-celebrate-the-coming-new-year"
+		"link_scr": "https://www.crunchyroll.com/anime-news/2021/12/29/princess-connect-re-dive-prepares-some-end-of-year-festivities"
 	},
 	{
 		"event_name": "3x Normal Quest",
@@ -46,7 +39,20 @@
 		"icon_src": "normal3",
 		"link_scr": "https://www.crunchyroll.com/anime-news/2021/12/29/princess-connect-re-dive-prepares-some-end-of-year-festivities"
 	},
-
+	{
+		"event_name": "3x Hard Quest",
+		"start_time": "2022/01/22 13:00:00",
+		"end_time": "2022/01/27 12:59:59",
+		"icon_src": "hard3",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/01/11/princess-connect-re-dive-celebrates-1-year-anniversary-with-special-campaigns"
+	},
+	{
+		"event_name": "2x Dungeon",
+		"start_time": "2022/01/27 13:00:00",
+		"end_time": "2022/02/07 12:59:59",
+		"icon_src": "dungeon",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/01/11/princess-connect-re-dive-celebrates-1-year-anniversary-with-special-campaigns"
+	},
 	{
 		"event_name": "Story Event",
 		"start_time": "2021/12/20 23:00:00",
@@ -54,24 +60,24 @@
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "New Year’s Day Twinkle Crisis!",
-		"start_time": "2021/12/20 23:00:00",
-		"end_time": "2022/01/03 22:59:00",
+		"event_name": "Rumble on Valentine's Day!",
+		"start_time": "2022/01/18 23:00:00",
+		"end_time": "2022/02/01 22:59:00",
 		"icon_src": "story",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/12/14-1/princess-connect-re-dive-brings-back-the-princess-gala-to-celebrate-the-coming-new-year"
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/01/11/princess-connect-re-dive-celebrates-1-year-anniversary-with-special-campaigns"
 	},
 	{
 		"event_name": "Patch/Update",
-		"start_time": "2022/01/05 08:00:00",
-		"end_time": "2022/01/05 08:00:00",
+		"start_time": "2022/01/22 08:00:00",
+		"end_time": "2022/01/22 08:00:00",
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "Update 20: Castalia Forest (West)",
-		"start_time": "2022/01/05 08:00:00",
-		"end_time": "2022/01/05 08:00:00",
+		"event_name": "New Unique Equipment",
+		"start_time": "2022/01/22 08:00:00",
+		"end_time": "2022/01/22 08:00:00",
 		"icon_src": "update",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2021/12/29/princess-connect-re-dive-prepares-some-end-of-year-festivities"
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/01/11/princess-connect-re-dive-celebrates-1-year-anniversary-with-special-campaigns"
 	},
 	{
 		"event_name": "Tower of Luna",

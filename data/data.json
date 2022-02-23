@@ -6,13 +6,6 @@
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "Muimi",
-		"start_time": "2022/02/01 23:00:00",
-		"end_time": "2022/02/14 22:59:59",
-		"icon_src": "banner_26",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2022/01/26/princess-connect-re-dives-muimi-takes-center-stage-for-the-return-of-the-princess-gala"
-	},
-	{
 		"event_name": "Kasumi",
 		"start_time": "2022/02/14 23:00:00",
 		"end_time": "2022/03/01 22:59:59",
@@ -20,24 +13,17 @@
 		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/08-1/princess-connect-re-dives-ace-detective-is-on-the-case"
 	},
 	{
+		"event_name": "Ayumi",
+		"start_time": "2022/03/01 23:00:00",
+		"end_time": "2022/03/10 22:59:59",
+		"icon_src": "banner_28",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
+	},
+	{
 		"event_name": "Double Events",
 		"start_time": "2030/01/01 00:00:00",
 		"end_time": "2030/01/01 00:00:00",
 		"icon_src": "iblock"
-	},
-	{
-		"event_name": "2x Grotto",
-		"start_time": "2022/02/07 13:00:00",
-		"end_time": "2022/02/16 12:59:59",
-		"icon_src": "grotto",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2022/01/26/princess-connect-re-dives-muimi-takes-center-stage-for-the-return-of-the-princess-gala"
-	},
-	{
-		"event_name": "2x Normal Quest",
-		"start_time": "2022/02/16 13:00:00",
-		"end_time": "2022/02/21 12:59:59",
-		"icon_src": "normal",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/08-1/princess-connect-re-dives-ace-detective-is-on-the-case"
 	},
 	{
 		"event_name": "2x Hard Quest",
@@ -54,6 +40,20 @@
 		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/08-1/princess-connect-re-dives-ace-detective-is-on-the-case"
 	},
 	{
+		"event_name": "2x Sanctum Survey",
+		"start_time": "2022/03/01 13:00:00",
+		"end_time": "2022/03/07 12:59:59",
+		"icon_src": "survey",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
+	},
+	{
+		"event_name": "2x Grotto",
+		"start_time": "2022/03/07 13:00:00",
+		"end_time": "2022/03/14 12:59:59",
+		"icon_src": "grotto",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
+	},
+	{
 		"event_name": "Story Event",
 		"start_time": "2022/02/14 23:00:00",
 		"end_time": "2022/03/01 22:59:00",
@@ -68,43 +68,34 @@
 	},
 	{
 		"event_name": "Patch/Update",
-		"start_time": "2022/02/15 13:00:00",
-		"end_time": "2022/02/15 13:00:00",
+		"start_time": "2022/03/04 09:00:00",
+		"end_time": "2022/03/04 09:00:00",
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "Princess Arena Reset",
-		"start_time": "2022/02/14 23:00:00",
-		"end_time": "2022/02/14 23:00:00",
-		"icon_src": "reset",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/08-1/princess-connect-re-dives-ace-detective-is-on-the-case"
+		"event_name": "Update 22: Mathilde Ridges (S)",
+		"start_time": "2022/03/01 13:00:00",
+		"end_time": "2022/03/01 13:00:00",
+		"icon_src": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
 	},
 	{
 		"event_name": "New Unique Equipment",
-		"start_time": "2022/02/15 09:00:00",
-		"end_time": "2022/02/15 09:00:00",
-		"icon_src": "unique",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/08-1/princess-connect-re-dives-ace-detective-is-on-the-case"
-	},
-	{
-		"event_name": "Extreme II Dungeon Unlock",
-		"start_time": "2022/02/15 13:00:00",
-		"end_time": "2022/02/15 13:00:00",
-		"icon_src": "update",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/08-1/princess-connect-re-dives-ace-detective-is-on-the-case"
+		"start_time": "2022/03/04 09:00:00",
+		"end_time": "2022/03/04 09:00:00",
+		"icon_src": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
 	},
 	{
 		"event_name": "Tower of Luna",
-		"start_time": "2022/02/05 13:00:00",
-		"end_time": "2022/02/10 15:59:59",
+		"start_time": "2022/03/05 13:00:00",
+		"end_time": "2022/03/10 15:59:59",
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "February Luna Tower",
-		"start_time": "2022/02/05 13:00:00",
-		"end_time": "2022/02/10 15:59:59",
+		"event_name": "March Luna Tower",
+		"start_time": "2022/03/05 13:00:00",
+		"end_time": "2022/03/10 15:59:59",
 		"icon_src": "luna",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2022/01/26/princess-connect-re-dives-muimi-takes-center-stage-for-the-return-of-the-princess-gala"
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
 	},
 	{
 		"event_name": "Clan Battle",

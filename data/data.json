@@ -76,13 +76,15 @@
 		"event_name": "Update 22: Mathilde Ridges (S)",
 		"start_time": "2022/03/01 13:00:00",
 		"end_time": "2022/03/01 13:00:00",
-		"icon_src": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
+		"icon_src": "update",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
 	},
 	{
 		"event_name": "New Unique Equipment",
 		"start_time": "2022/03/04 09:00:00",
 		"end_time": "2022/03/04 09:00:00",
-		"icon_src": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
+		"icon_src": "unique",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
 	},
 	{
 		"event_name": "Tower of Luna",

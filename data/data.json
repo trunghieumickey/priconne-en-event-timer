@@ -6,13 +6,6 @@
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "Kasumi",
-		"start_time": "2022/02/14 23:00:00",
-		"end_time": "2022/03/01 22:59:59",
-		"icon_src": "banner_27",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/08-1/princess-connect-re-dives-ace-detective-is-on-the-case"
-	},
-	{
 		"event_name": "Ayumi",
 		"start_time": "2022/03/01 23:00:00",
 		"end_time": "2022/03/10 22:59:59",
@@ -20,17 +13,17 @@
 		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
 	},
 	{
+		"event_name": "Anne",
+		"start_time": "2022/03/10 23:00:00",
+		"end_time": "2022/03/23 22:59:59",
+		"icon_src": "banner_29",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/03/04/princess-connect-re-dive-meets-mysteria-friends"
+	},
+	{
 		"event_name": "Double Events",
 		"start_time": "2030/01/01 00:00:00",
 		"end_time": "2030/01/01 00:00:00",
 		"icon_src": "iblock"
-	},
-	{
-		"event_name": "2x Hard Quest",
-		"start_time": "2022/02/21 13:00:00",
-		"end_time": "2022/02/26 12:59:59",
-		"icon_src": "hard",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/08-1/princess-connect-re-dives-ace-detective-is-on-the-case"
 	},
 	{
 		"event_name": "2x Dungeon",
@@ -49,22 +42,36 @@
 	{
 		"event_name": "2x Grotto",
 		"start_time": "2022/03/07 13:00:00",
-		"end_time": "2022/03/14 12:59:59",
+		"end_time": "2022/03/13 12:59:59",
 		"icon_src": "grotto",
 		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
 	},
 	{
+		"event_name": "2x Normal Quest",
+		"start_time": "2022/03/13 13:00:00",
+		"end_time": "2022/03/19 12:59:59",
+		"icon_src": "normal",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/03/04/princess-connect-re-dive-meets-mysteria-friends"
+	},
+	{
+		"event_name": "2x Hard Quest",
+		"start_time": "2022/03/19 13:00:00",
+		"end_time": "2022/03/24 12:59:59",
+		"icon_src": "hard",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/03/04/princess-connect-re-dive-meets-mysteria-friends"
+	},
+	{
 		"event_name": "Story Event",
-		"start_time": "2022/02/14 23:00:00",
-		"end_time": "2022/03/01 22:59:00",
+		"start_time": "2022/03/10 23:00:00",
+		"end_time": "2022/03/23 22:59:00",
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "Landosol’s Ace Detective",
-		"start_time": "2022/02/14 23:00:00",
-		"end_time": "2022/03/01 22:59:00",
+		"event_name": "Twin Flowers of Astrum",
+		"start_time": "2022/03/10 23:00:00",
+		"end_time": "2022/03/23 22:59:00",
 		"icon_src": "story",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/08-1/princess-connect-re-dives-ace-detective-is-on-the-case"
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/03/04/princess-connect-re-dive-meets-mysteria-friends"
 	},
 	{
 		"event_name": "Patch/Update",
@@ -73,18 +80,11 @@
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "Update 22: Mathilde Ridges (S)",
-		"start_time": "2022/03/01 13:00:00",
-		"end_time": "2022/03/01 13:00:00",
+		"event_name": "Guildhouse Upgrade",
+		"start_time": "2022/03/11 13:00:00",
+		"end_time": "2022/03/11 13:00:00",
 		"icon_src": "update",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
-	},
-	{
-		"event_name": "New Unique Equipment",
-		"start_time": "2022/03/04 09:00:00",
-		"end_time": "2022/03/04 09:00:00",
-		"icon_src": "unique",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/23-1/princess-connect-re-dives-new-character-ayumi-is-watching"
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/03/04/princess-connect-re-dive-meets-mysteria-friends"
 	},
 	{
 		"event_name": "Tower of Luna",
@@ -101,15 +101,15 @@
 	},
 	{
 		"event_name": "Clan Battle",
-		"start_time": "2022/02/18 13:00:00",
-		"end_time": "2022/02/23 07:59:59",
+		"start_time": "2022/03/17 13:00:00",
+		"end_time": "2022/03/22 07:59:59",
 		"icon_src": "iblock"
 	},
 	{
-		"event_name": "February Clan Battle",
-		"start_time": "2022/02/18 13:00:00",
-		"end_time": "2022/02/23 07:59:59",
+		"event_name": "March Clan Battle",
+		"start_time": "2022/03/17 13:00:00",
+		"end_time": "2022/03/22 07:59:59",
 		"icon_src": "clan",
-		"link_scr": "https://www.crunchyroll.com/anime-news/2022/02/08-1/princess-connect-re-dives-ace-detective-is-on-the-case"
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/03/04/princess-connect-re-dive-meets-mysteria-friends"
 	}
 ]

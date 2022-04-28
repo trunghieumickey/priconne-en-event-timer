@@ -1,3 +1,9 @@
+## **Important**
+Due to the [incidents #2413](https://status.heroku.com/incidents/2413) where Github OAuth Token stored at Heroku being compromised, Heroku have taken action to disable linking Github repositories to Heroku.<br>
+Until the connections are recovered, I might have to either push update manually or leave them outdated.
+Please use Github Pages as an alternative
+
+
 ## Credit
 Original version: https://github.com/kenofnz/priconne-en-event-timer<br>
 Original games: https://www.crunchyroll.com/games/princessconnectredive/index.html

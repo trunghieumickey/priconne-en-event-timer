@@ -22,7 +22,7 @@
 	{
 		"event_name": "S.Pecorine & S.Karyl",
 		"start_time": "2022/06/14 23:00:00",
-		"end_time": "2022/06/17 22:59:59",
+		"end_time": "2022/06/19 22:59:59",
 		"icon_src": "pickup",
 		"link_scr": "https://www.crunchyroll.com/anime-news/2022/05/26/princess-connect-re-dives-suzuna-splashes-into-summer"
 	},
@@ -40,15 +40,29 @@
 		"link_scr": "https://www.crunchyroll.com/anime-news/2022/04/28-1/princess-connect-re-dive-meets-rezero-in-a-special-crossover-bonanza"
 	},
 	{
+		"event_name": "2x Grotto",
+		"start_time": "2022/06/04 13:00:00",
+		"end_time": "2022/06/10 12:59:59",
+		"icon_src": "grotto",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/05/26/princess-connect-re-dives-suzuna-splashes-into-summer"
+	},
+	{
+		"event_name": "2x Sanctum Survey",
+		"start_time": "2022/06/04 13:00:00",
+		"end_time": "2022/06/10 12:59:59",
+		"icon_src": "survey",
+		"link_scr": "https://www.crunchyroll.com/anime-news/2022/05/26/princess-connect-re-dives-suzuna-splashes-into-summer"
+	},
+	{
 		"event_name": "Story Event",
 		"start_time": "2022/06/01 23:00:00",
-		"end_time": "2022/06/13 22:59:00",
+		"end_time": "2022/06/15 22:59:00",
 		"icon_src": "iblock"
 	},
 	{
 		"event_name": "Suzuna's Rainbow Stage!",
 		"start_time": "2022/06/01 23:00:00",
-		"end_time": "2022/06/13 22:59:00",
+		"end_time": "2022/06/15 22:59:00",
 		"icon_src": "story",
 		"link_scr": "https://www.crunchyroll.com/anime-news/2022/05/26/princess-connect-re-dives-suzuna-splashes-into-summer"
 	},
@@ -67,8 +81,8 @@
 	},
 	{
 		"event_name": "Luna Tower & Clan Battle",
-		"start_time": "2030/01/01 00:00:00",
-		"end_time": "2030/01/01 00:00:00",
+		"start_time": "2022/05/25 13:00:00",
+		"end_time": "2022/05/30 07:59:59",
 		"icon_src": "iblock"
 	},
 	{

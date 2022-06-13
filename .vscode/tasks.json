@@ -11,6 +11,18 @@
                 "cwd": "${workspaceFolder}"
             },
             "problemMatcher": []
+        },
+        {
+            "label": "Clean JSON data",
+            "type": "shell",
+            "windows": {
+                "command": "python ${workspaceFolder}/.vscode/prep.py",
+                "args": []
+            },
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": []
         }
     ],
     "version": "2.0.0"

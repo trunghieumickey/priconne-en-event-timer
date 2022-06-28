@@ -4,10 +4,17 @@ import json
 cwf = getcwd() + "\\data\\data.json"
 with open(cwf, "r") as f:
     data = json.load(f)
-for i in data:
-    if(time.strptime(i["end_time"], "%Y/%m/%d %H:%M:%S")<time.gmtime() and i["icon_src"]!="iblock"):
-        print(i["event_name"],"is removed")
-        data.remove(i)
+
+
+while True:
+    retrim = False
+    for i in data:
+        if(time.strptime(i["end_time"], "%Y/%m/%d %H:%M:%S")<time.gmtime() and i["icon_src"]!="iblock"):
+            print(i["event_name"],"is removed")
+            data.remove(i)
+            retrim = True
+    if(not retrim):
+        break
 
 for i in range(len(data)):
     if data[i]["icon_src"]=="iblock":

@@ -5,20 +5,6 @@
         "icon_src": "iblock"
     },
     {
-        "event_name": "Suzuna (Summer)",
-        "start_time": "2022/06/01 23:00:00",
-        "end_time": "2022/06/14 22:59:59",
-        "icon_src": "banner_35",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/05/26/princess-connect-re-dives-suzuna-splashes-into-summer"
-    },
-    {
-        "event_name": "S.Pecorine & S.Karyl",
-        "start_time": "2022/06/14 23:00:00",
-        "end_time": "2022/06/19 22:59:59",
-        "icon_src": "pickup",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/05/26/princess-connect-re-dives-suzuna-splashes-into-summer"
-    },
-    {
         "event_name": "Saren (Summer)",
         "start_time": "2022/06/19 23:00:00",
         "end_time": "2022/07/04 22:59:59",
@@ -26,30 +12,23 @@
         "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/13-1/princess-connect-re-dives-saren-hits-the-beach"
     },
     {
+        "event_name": "Makoto (Summer)",
+        "start_time": "2022/07/04 23:00:00",
+        "end_time": "2022/07/14 22:59:59",
+        "icon_src": "banner_37",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/27-1/princess-connect-re-dives-seasonal-specialties-rally-on-with-makoto-summer"
+    },
+    {
+        "event_name": "S.Tamaki & S.Suzume",
+        "start_time": "2022/07/14 23:00:00",
+        "end_time": "2022/07/19 22:59:59",
+        "icon_src": "pickup",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/27-1/princess-connect-re-dives-seasonal-specialties-rally-on-with-makoto-summer"
+    },
+    {
         "event_name": "Double Events",
         "end_time": "2050/01/01 00:00:00",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "2x Sanctum Survey",
-        "start_time": "2022/06/10 13:00:00",
-        "end_time": "2022/06/16 12:59:59",
-        "icon_src": "survey",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/05/26/princess-connect-re-dives-suzuna-splashes-into-summer"
-    },
-    {
-        "event_name": "2x Normal Quest",
-        "start_time": "2022/06/16 13:00:00",
-        "end_time": "2022/06/21 12:59:59",
-        "icon_src": "normal",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/13-1/princess-connect-re-dives-saren-hits-the-beach"
-    },
-    {
-        "event_name": "2x Hard Quest",
-        "start_time": "2022/06/21 13:00:00",
-        "end_time": "2022/06/27 12:59:59",
-        "icon_src": "hard",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/13-1/princess-connect-re-dives-saren-hits-the-beach"
     },
     {
         "event_name": "2x Dungeon",
@@ -59,47 +38,54 @@
         "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/13-1/princess-connect-re-dives-saren-hits-the-beach"
     },
     {
+        "event_name": "2x Grotto",
+        "start_time": "2022/07/05 13:00:00",
+        "end_time": "2022/07/11 12:59:59",
+        "icon_src": "grotto",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/27-1/princess-connect-re-dives-seasonal-specialties-rally-on-with-makoto-summer"
+    },
+    {
+        "event_name": "2x Sanctum Survey",
+        "start_time": "2022/07/11 13:00:00",
+        "end_time": "2022/07/16 12:59:59",
+        "icon_src": "survey",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/27-1/princess-connect-re-dives-seasonal-specialties-rally-on-with-makoto-summer"
+    },
+    {
+        "event_name": "2x Dungeon",
+        "start_time": "2022/07/15 13:00:00",
+        "end_time": "2022/07/25 12:59:59",
+        "icon_src": "dungeon",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/27-1/princess-connect-re-dives-seasonal-specialties-rally-on-with-makoto-summer"
+    },
+    {
         "event_name": "Story Event",
-        "end_time": "2022/06/27 22:59:59",
+        "end_time": "2022/07/17 22:59:59",
         "icon_src": "iblock"
     },
     {
-        "event_name": "Suzuna's Rainbow Stage!",
-        "start_time": "2022/06/01 23:00:00",
-        "end_time": "2022/06/15 22:59:59",
+        "event_name": "Maho-Maho Kingdom",
+        "start_time": "2022/07/04 23:00:00",
+        "end_time": "2022/07/17 22:59:59",
         "icon_src": "story",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/05/26/princess-connect-re-dives-suzuna-splashes-into-summer"
-    },
-    {
-        "event_name": "Dangerous Vacation! (Re-run)",
-        "start_time": "2022/06/19 23:00:00",
-        "end_time": "2022/06/27 22:59:59",
-        "icon_src": "rerun",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/13-1/princess-connect-re-dives-saren-hits-the-beach"
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/27-1/princess-connect-re-dives-seasonal-specialties-rally-on-with-makoto-summer"
     },
     {
         "event_name": "Patch/Update",
-        "end_time": "2022/06/27 13:00:00",
+        "end_time": "2022/07/04 9:00:00",
         "icon_src": "iblock"
     },
     {
-        "event_name": "Update 26: Petro Forest (West)",
-        "start_time": "2022/06/27 13:00:00",
-        "end_time": "2022/06/27 13:00:00",
-        "icon_src": "update",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/13-1/princess-connect-re-dives-saren-hits-the-beach"
+        "event_name": "New Unique Equipment",
+        "start_time": "2022/07/04 9:00:00",
+        "end_time": "2022/07/04 9:00:00",
+        "icon_src": "unique",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/27-1/princess-connect-re-dives-seasonal-specialties-rally-on-with-makoto-summer"
     },
     {
         "event_name": "Luna Tower & Clan Battle",
         "end_time": "2022/07/03 07:59:59",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "June Luna Tower",
-        "start_time": "2022/06/16 13:00:00",
-        "end_time": "2022/06/21 15:59:59",
-        "icon_src": "luna",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/13-1/princess-connect-re-dives-saren-hits-the-beach"
     },
     {
         "event_name": "June Clan Battle",

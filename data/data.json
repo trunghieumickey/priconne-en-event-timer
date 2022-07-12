@@ -5,13 +5,6 @@
         "icon_src": "iblock"
     },
     {
-        "event_name": "Saren (Summer)",
-        "start_time": "2022/06/19 23:00:00",
-        "end_time": "2022/07/04 22:59:59",
-        "icon_src": "banner_36",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/13-1/princess-connect-re-dives-saren-hits-the-beach"
-    },
-    {
         "event_name": "Makoto (Summer)",
         "start_time": "2022/07/04 23:00:00",
         "end_time": "2022/07/14 22:59:59",
@@ -22,27 +15,27 @@
         "event_name": "S.Tamaki & S.Suzume",
         "start_time": "2022/07/14 23:00:00",
         "end_time": "2022/07/19 22:59:59",
-        "icon_src": "pickup",
+        "icon_src": "prize",
         "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/27-1/princess-connect-re-dives-seasonal-specialties-rally-on-with-makoto-summer"
+    },
+    {
+        "event_name": "Maho (Summer)",
+        "start_time": "2022/07/09 23:00:00",
+        "end_time": "2022/07/30 22:59:59",
+        "icon_src": "banner_38",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
+    },
+    {
+        "event_name": "Diabolos",
+        "start_time": "2022/07/09 23:00:00",
+        "end_time": "2022/07/30 22:59:59",
+        "icon_src": "pickup",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
     },
     {
         "event_name": "Double Events",
         "end_time": "2050/01/01 00:00:00",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "2x Dungeon",
-        "start_time": "2022/06/27 13:00:00",
-        "end_time": "2022/07/05 12:59:59",
-        "icon_src": "dungeon",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/13-1/princess-connect-re-dives-saren-hits-the-beach"
-    },
-    {
-        "event_name": "2x Grotto",
-        "start_time": "2022/07/05 13:00:00",
-        "end_time": "2022/07/11 12:59:59",
-        "icon_src": "grotto",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/27-1/princess-connect-re-dives-seasonal-specialties-rally-on-with-makoto-summer"
     },
     {
         "event_name": "2x Sanctum Survey",
@@ -54,13 +47,41 @@
     {
         "event_name": "2x Dungeon",
         "start_time": "2022/07/15 13:00:00",
-        "end_time": "2022/07/25 12:59:59",
+        "end_time": "2022/07/19 12:59:59",
         "icon_src": "dungeon",
         "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/27-1/princess-connect-re-dives-seasonal-specialties-rally-on-with-makoto-summer"
     },
     {
+        "event_name": "2x Grotto",
+        "start_time": "2022/07/19 13:00:00",
+        "end_time": "2022/07/23 12:59:59",
+        "icon_src": "grotto",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
+    },
+    {
+        "event_name": "3x Normal Quest",
+        "start_time": "2022/07/19 13:00:00",
+        "end_time": "2022/07/25 12:59:59",
+        "icon_src": "normal3",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
+    },
+    {
+        "event_name": "3x Hard Quest",
+        "start_time": "2022/07/25 13:00:00",
+        "end_time": "2022/07/31 12:59:59",
+        "icon_src": "hard3",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
+    },
+    {
+        "event_name": "2x Sanctum Survey",
+        "start_time": "2022/07/25 13:00:00",
+        "end_time": "2022/07/31 12:59:59",
+        "icon_src": "survey",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
+    },
+    {
         "event_name": "Story Event",
-        "end_time": "2022/07/17 22:59:59",
+        "end_time": "2022/07/25 22:59:59",
         "icon_src": "iblock"
     },
     {
@@ -71,27 +92,41 @@
         "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/27-1/princess-connect-re-dives-seasonal-specialties-rally-on-with-makoto-summer"
     },
     {
+        "event_name": "Desert Island 0-Rupie Life (Re-run)",
+        "start_time": "2022/07/19 23:00:00",
+        "end_time": "2022/07/25 22:59:59",
+        "icon_src": "rerun",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
+    },
+    {
         "event_name": "Patch/Update",
-        "end_time": "2022/07/04 9:00:00",
+        "end_time": "2022/07/14 9:00:00",
         "icon_src": "iblock"
     },
     {
         "event_name": "New Unique Equipment",
-        "start_time": "2022/07/04 9:00:00",
-        "end_time": "2022/07/04 9:00:00",
+        "start_time": "2022/07/14 9:00:00",
+        "end_time": "2022/07/14 9:00:00",
         "icon_src": "unique",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/27-1/princess-connect-re-dives-seasonal-specialties-rally-on-with-makoto-summer"
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
     },
     {
         "event_name": "Luna Tower & Clan Battle",
-        "end_time": "2022/07/03 07:59:59",
+        "end_time": "2022/07/31 07:59:59",
         "icon_src": "iblock"
     },
     {
-        "event_name": "June Clan Battle",
-        "start_time": "2022/06/28 13:00:00",
-        "end_time": "2022/07/03 07:59:59",
+        "event_name": "July Luna Tower",
+        "start_time": "2022/07/18 13:00:00",
+        "end_time": "2022/07/23 15:59:59",
+        "icon_src": "luna",
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
+    },
+    {
+        "event_name": "July Clan Battle",
+        "start_time": "2022/07/26 13:00:00",
+        "end_time": "2022/07/31 07:59:59",
         "icon_src": "clan",
-        "link_scr": "https://www.crunchyroll.com/anime-news/2022/06/13-1/princess-connect-re-dives-saren-hits-the-beach"
+        "link_scr": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
     }
 ]

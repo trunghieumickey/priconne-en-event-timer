@@ -2,10 +2,10 @@ function countdownclock(element, timestamp) {
     var diff = timestamp - new Date().getTime();
     if (diff < 0)
         window.location.reload();
-    var seconds = Math.floor(diff / 1000) % 60;
-    var minutes = Math.floor(diff / 60000) % 60;
-    var hours = Math.floor(diff / 3600000) % 24;
-    var days = Math.floor(diff / 86400000);
+    var seconds = Math.floor(diff / 1000) % 60
+        , minutes = Math.floor(diff / 60000) % 60
+        , hours = Math.floor(diff / 3600000) % 24
+        , days = Math.floor(diff / 86400000);
     if (seconds < 10)
         seconds = "0" + seconds;
     if (minutes < 10)
@@ -16,11 +16,16 @@ function countdownclock(element, timestamp) {
 }
 
 function datetime(timestamp) {
-    var date = new Date(timestamp);
-    return date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate() + " " + date.getHours() + ":" + date.getMinutes() + ":" + date.getSeconds() + " UTC" + date.getTimezoneOffset() / 60;
+    var date = new Date(timestamp), day = date.getDate(), month = date.getMonth() + 1, year = date.getFullYear(), hour = date.getHours(), minute = date.getMinutes(), second = date.getSeconds(), offset = -date.getTimezoneOffset() / 60;
+    if (hour < 10) hour = "0" + hour;
+    if (minute < 10) minute = "0" + minute;
+    if (second < 10) second = "0" + second;
+    if (day < 10) day = "0" + day; 
+    if (month < 10) month = "0" + month;
+    return year + "-" + month + "-" + day + " " + hour + ":" + minute + ":" + second + " UTC" + (offset > 0 ? "+" : "") + offset;
 }
 
-fetch('data/data.json').then(response=>response.json()).then(data=>{
+fetch('data/data.json').then(response => response.json()).then(data => {
     var utc = new Date().getTime();
     for (let i = 0; i < data.length; i++) {
         let item = data[i];

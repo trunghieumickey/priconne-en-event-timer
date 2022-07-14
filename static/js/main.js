@@ -1,16 +1,15 @@
 function countdownclock(element, timestamp) {
-    var diff = timestamp - new Date().getTime();
+    var diff = timestamp - (new Date().getTime() + new Date().getTimezoneOffset() * 60000);
     if (diff < 0) window.location.reload();
-    var seconds = Math.floor(diff / 1000);
-    var minutes = Math.floor(diff / 60000);
-    var hours = Math.floor(diff / 3600000);
+    var seconds = Math.floor(diff / 1000)% 60;
+    var minutes = Math.floor(diff / 60000)% 60;
+    var hours = Math.floor(diff / 3600000)% 24;
     var days = Math.floor(diff / 86400000);
     element.textContent = days + " days " + hours + ":" + minutes + ":" + seconds;
 }
 
 fetch('data/data.json').then(response => response.json()).then(data => {
-    debugger;
-    var utc = new Date().getTime() + (new Date().getTimezoneOffset() * 60000);
+    var utc = new Date().getTime() + new Date().getTimezoneOffset() * 60000;
     for (let i = 0; i < data.length; i++) {
         let item = data[i];
         let div = document.createElement('div');
@@ -48,7 +47,7 @@ fetch('data/data.json').then(response => response.json()).then(data => {
             icon.appendChild(img);
             div.appendChild(icon);
             let info = document.createElement('div');
-            info.className = "info";
+            
             let title = document.createElement('div');
             title.className = "title";
             title.innerHTML = item["event_name"];
@@ -62,7 +61,9 @@ fetch('data/data.json').then(response => response.json()).then(data => {
                 countdown.appendChild(subtitle);
                 countdown.appendChild(end_time_div);
             }
+            countdown.className = "countdown";
             info.appendChild(countdown);
+            info.className = "info";
             div.appendChild(info);
         }
         document.getElementById("root").appendChild(div);

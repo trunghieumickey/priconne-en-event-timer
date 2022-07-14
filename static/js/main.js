@@ -16,7 +16,7 @@ function countdownclock(element, timestamp) {
 }
 
 function datetime(timestamp) {
-    var date = new Date(timestamp), day = date.getDate(), month = date.getMonth() + 1, year = date.getFullYear(), hour = date.getHours(), minute = date.getMinutes(), second = date.getSeconds(), offset = -date.getTimezoneOffset() / 60;
+    var date = new Date(timestamp), day = date.getDay(), month = date.getMonth() + 1, year = date.getFullYear(), hour = date.getHours(), minute = date.getMinutes(), second = date.getSeconds(), offset = -date.getTimezoneOffset() / 60;
     if (hour < 10) hour = "0" + hour;
     if (minute < 10) minute = "0" + minute;
     if (second < 10) second = "0" + second;

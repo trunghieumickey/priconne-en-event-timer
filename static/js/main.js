@@ -17,7 +17,7 @@ function countdownclock(element, timestamp) {
 
 function datetime(timestamp) {
     var date = new Date(timestamp);
-    return date.getFullYear + "-" + (date.getMonth() + 1) + "-" + date.getDate + " " + date.getHours + ":" + date.getMinutes + ":" + date.getSeconds + " UTC" + date.getTimezoneOffset / 60;
+    return date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate() + " " + date.getHours() + ":" + date.getMinutes() + ":" + date.getSeconds() + " UTC" + date.getTimezoneOffset() / 60;
 }
 
 fetch('data/data.json').then(response=>response.json()).then(data=>{

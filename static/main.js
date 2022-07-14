@@ -25,7 +25,7 @@ function datetime(timestamp) {
     return year + "-" + month + "-" + day + " " + hour + ":" + minute + ":" + second + " UTC" + (offset > 0 ? "+" : "") + offset;
 }
 
-fetch('data/data.json').then(response => response.json()).then(data => {
+fetch('static/data.json').then(response => response.json()).then(data => {
     var utc = new Date().getTime();
     for (let i = 0; i < data.length; i++) {
         let item = data[i];
@@ -62,7 +62,7 @@ fetch('data/data.json').then(response => response.json()).then(data => {
             let icon = document.createElement('a');
             icon.className = "icon";
             icon.href = item["link"];
-            img.src = "icons/" + item["icon_src"] + ".webp";
+            img.src = "image/" + item["icon_src"] + ".webp";
             img.alt = item["icon_src"];
             title.className = "title";
             title.innerHTML = item["event_name"];

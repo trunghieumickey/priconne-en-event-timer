@@ -59,9 +59,10 @@ fetch('data/data.json').then(response => response.json()).then(data => {
                 subtitle.innerHTML = "Ends in";
                 let end_time_div = document.createElement('div');
                 setInterval(countdownclock(end_time_div, end_time));
-                info.appendChild(subtitle);
-                info.appendChild(end_time_div);
+                countdown.appendChild(subtitle);
+                countdown.appendChild(end_time_div);
             }
+            info.appendChild(countdown);
             div.appendChild(info);
         }
         document.getElementById("root").appendChild(div);

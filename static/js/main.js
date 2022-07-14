@@ -15,6 +15,11 @@ function countdownclock(element, timestamp) {
     element.textContent = days + " days " + hours + ":" + minutes + ":" + seconds;
 }
 
+function datetime(timestamp) {
+    var date = new Date(timestamp);
+    return date.getFullYear + "-" + (date.getMonth() + 1) + "-" + date.getDate + " " + date.getHours + ":" + date.getMinutes + ":" + date.getSeconds + " UTC" + date.getTimezoneOffset / 60;
+}
+
 fetch('data/data.json').then(response=>response.json()).then(data=>{
     var utc = new Date().getTime();
     for (let i = 0; i < data.length; i++) {
@@ -59,7 +64,7 @@ fetch('data/data.json').then(response=>response.json()).then(data=>{
             countdown.className = "countdown";
             info.className = "info";
             date.className = "date";
-            date.appendChild(document.createTextNode("Start Date: " + new Date(start_time).toLocaleString()));
+            date.appendChild(document.createTextNode("Start Date: " + datetime(start_time)));
             if (start_time != end_time) {
                 subtitle = document.createElement('div');
                 subtitle.className = "subtitle";
@@ -69,7 +74,7 @@ fetch('data/data.json').then(response=>response.json()).then(data=>{
                 countdown.appendChild(subtitle);
                 countdown.appendChild(end_time_div);
                 date.appendChild(document.createElement('br'));
-                date.appendChild(document.createTextNode("End Date: " + new Date(start_time).toLocaleString()));
+                date.appendChild(document.createTextNode("End Date: " + datetime(end_time)));
             }
             icon.appendChild(img);
             div.appendChild(icon);

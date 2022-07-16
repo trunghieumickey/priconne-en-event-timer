@@ -103,14 +103,15 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         div.className = "countdown-card";
     for (let i = 0; i < href.length; i++) {
         let a = document.createElement('a');
-        a.href = href[i];
+        a.href = "https://" + href[i];
         a.className = "button";
         let img = document.createElement('img');
-        img.src = scr[i];
+        img.src = "https://" + scr[i];
         img.alt = img.className = "favicon";
         a.appendChild(img);
+        a.appendChild(document.createTextNode(content[i]));
         div.appendChild(a);
-        div.appendChild(document.createTextNode(content[i]));
+        
     }
     document.getElementById("root").appendChild(div);
 })

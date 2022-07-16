@@ -96,4 +96,21 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         }
         document.getElementById("root").appendChild(div);
     }
+    var href = ["got.cr/priconne-update","github.com/trunghieumickey/priconne-en-event-timer","forms.gle/67EqnZhHbjhDhabB7"],
+        scr = ["www.crunchyroll.com/favicons/favicon-32x32.png","github.githubassets.com/favicons/favicon.png","ssl.gstatic.com/docs/spreadsheets/forms/favicon_qp2.png"],
+        content = ["Crunchyroll Notice","Github Repository","Feedback"];
+        div = document.createElement('div');
+        div.className = "countdown-card";
+    for (let i = 0; i < href.length; i++) {
+        let a = document.createElement('a');
+        a.href = href[i];
+        a.className = "button";
+        let img = document.createElement('img');
+        img.src = scr[i];
+        img.alt = img.className = "favicon";
+        a.appendChild(img);
+        div.appendChild(a);
+        div.appendChild(document.createTextNode(content[i]));
+    }
+    document.getElementById("root").appendChild(div);
 })

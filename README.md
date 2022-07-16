@@ -1,5 +1,4 @@
-## Development Beta
-A project to rewrite all source ## Credit
+## Credit
 Original version: https://github.com/kenofnz/priconne-en-event-timer<br>
 Original games: https://www.crunchyroll.com/games/princessconnectredive/index.html
 
@@ -12,4 +11,3 @@ Create a fork if you want to use this for different zone/language.
 [Main Page](https://priconne-event.herokuapp.com)<br>
 [Github](https://trunghieumickey.github.io/priconne-en-event-timer) (Clone)<br>
 [![Pages Deployment](https://github.com/trunghieumickey/priconne-en-event-timer/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/trunghieumickey/priconne-en-event-timer/actions/workflows/pages/pages-build-deployment)
- in pure JavaScript for better performance

@@ -1,7 +1,7 @@
 from os import getcwd
 import time
 import json
-cwf = getcwd() + "\\data\\data.json"
+cwf = getcwd() + "\\static\\data.json"
 with open(cwf, "r") as f:
     data = json.load(f)
 

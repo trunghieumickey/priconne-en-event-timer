@@ -5,27 +5,6 @@
         "icon_src": "iblock"
     },
     {
-        "event_name": "Maho (Summer)",
-        "start_time": "2022/07/19 23:00:00",
-        "end_time": "2022/07/30 22:59:59",
-        "icon_src": "banner_38",
-        "link": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
-    },
-    {
-        "event_name": "Diabolos",
-        "start_time": "2022/07/30 23:00:00",
-        "end_time": "2022/08/04 22:59:59",
-        "icon_src": "pickup",
-        "link": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
-    },
-    {
-        "event_name": "Neneka",
-        "start_time": "2022/08/04 23:00:00",
-        "end_time": "2022/08/07 22:59:59",
-        "icon_src": "banner_39",
-        "link": "https://www.crunchyroll.com/anime-news/2022/07/28-1/princess-connect-re-dive-doubles-up-with-neneka-aoi-student"
-    },
-    {
         "event_name": "Aoi (Student)",
         "start_time": "2022/08/07 23:00:00",
         "end_time": "2022/08/15 22:59:59",
@@ -40,44 +19,16 @@
         "link": "https://www.crunchyroll.com/anime-news/2022/07/28-1/princess-connect-re-dive-doubles-up-with-neneka-aoi-student"
     },
     {
+        "event_name": "Chloe",
+        "start_time": "2022/08/19 23:00:00",
+        "end_time": "2022/09/01 22:59:59",
+        "icon_src": "banner_41",
+        "link": "https://www.crunchyroll.com/anime-news/2022/08/11/princess-connect-re-dive-cools-off-with-chloe"
+    },
+    {
         "event_name": "Double Events",
         "end_time": "2050/01/01 00:00:00",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "3x Hard Quest",
-        "start_time": "2022/07/25 13:00:00",
-        "end_time": "2022/07/31 12:59:59",
-        "icon_src": "hard3",
-        "link": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
-    },
-    {
-        "event_name": "2x Sanctum Survey",
-        "start_time": "2022/07/25 13:00:00",
-        "end_time": "2022/07/31 12:59:59",
-        "icon_src": "survey",
-        "link": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
-    },
-    {
-        "event_name": "2x Normal Quest",
-        "start_time": "2022/07/31 13:00:00",
-        "end_time": "2022/08/04 12:59:59",
-        "icon_src": "normal",
-        "link": "https://www.crunchyroll.com/anime-news/2022/07/28-1/princess-connect-re-dive-doubles-up-with-neneka-aoi-student"
-    },
-    {
-        "event_name": "1.5x Master Coin",
-        "start_time": "2022/07/31 13:00:00",
-        "end_time": "2022/08/04 12:59:59",
-        "icon_src": "master",
-        "link": "https://www.crunchyroll.com/anime-news/2022/07/28-1/princess-connect-re-dive-doubles-up-with-neneka-aoi-student"
-    },
-    {
-        "event_name": "2x Grotto",
-        "start_time": "2022/08/04 13:00:00",
-        "end_time": "2022/08/10 12:59:59",
-        "icon_src": "grotto",
-        "link": "https://www.crunchyroll.com/anime-news/2022/07/28-1/princess-connect-re-dive-doubles-up-with-neneka-aoi-student"
     },
     {
         "event_name": "2x Normal Quest",
@@ -94,8 +45,36 @@
         "link": "https://www.crunchyroll.com/anime-news/2022/07/28-1/princess-connect-re-dive-doubles-up-with-neneka-aoi-student"
     },
     {
+        "event_name": "2x Normal Quest",
+        "start_time": "2022/08/18 13:00:00",
+        "end_time": "2022/08/24 12:59:59",
+        "icon_src": "normal",
+        "link": "https://www.crunchyroll.com/anime-news/2022/08/11/princess-connect-re-dive-cools-off-with-chloe"
+    },
+    {
+        "event_name": "2x Grotto",
+        "start_time": "2022/08/18 13:00:00",
+        "end_time": "2022/08/25 12:59:59",
+        "icon_src": "grotto",
+        "link": "https://www.crunchyroll.com/anime-news/2022/08/11/princess-connect-re-dive-cools-off-with-chloe"
+    },
+    {
+        "event_name": "2x Hard Quest",
+        "start_time": "2022/08/24 13:00:00",
+        "end_time": "2022/08/30 12:59:59",
+        "icon_src": "hard",
+        "link": "https://www.crunchyroll.com/anime-news/2022/08/11/princess-connect-re-dive-cools-off-with-chloe"
+    },
+    {
+        "event_name": "2x Expeditions",
+        "start_time": "2022/08/30 13:00:00",
+        "end_time": "2022/09/02 12:59:59",
+        "icon_src": "expeditions",
+        "link": "https://www.crunchyroll.com/anime-news/2022/08/11/princess-connect-re-dive-cools-off-with-chloe"
+    },
+    {
         "event_name": "Story Event",
-        "end_time": "2022/08/18 22:59:59",
+        "end_time": "2022/08/25 22:59:59",
         "icon_src": "iblock"
     },
     {
@@ -106,41 +85,41 @@
         "link": "https://www.crunchyroll.com/anime-news/2022/07/28-1/princess-connect-re-dive-doubles-up-with-neneka-aoi-student0"
     },
     {
+        "event_name": "Ironclad Nightmare (Re-run)",
+        "start_time": "2022/08/19 23:00:00",
+        "end_time": "2022/08/25 22:59:59",
+        "icon_src": "rerun",
+        "link": "https://www.crunchyroll.com/anime-news/2022/07/28-1/princess-connect-re-dive-doubles-up-with-neneka-aoi-student0"
+    },
+    {
         "event_name": "Patch/Update",
-        "end_time": "2022/08/04 13:00:00",
+        "end_time": "2022/08/26 13:00:00",
         "icon_src": "iblock"
     },
     {
-        "event_name": "New Unique Equipment",
-        "start_time": "2022/08/04 09:00:00",
-        "end_time": "2022/08/04 09:00:00",
-        "icon_src": "unique",
-        "link": "https://www.crunchyroll.com/anime-news/2022/07/28-1/princess-connect-re-dive-doubles-up-with-neneka-aoi-student"
-    },
-    {
-        "event_name": "Update 27: Petro Forest (East)",
-        "start_time": "2022/08/04 13:00:00",
-        "end_time": "2022/08/04 13:00:00",
+        "event_name": "Friend Function Added",
+        "start_time": "2022/08/26 13:00:00",
+        "end_time": "2022/08/26 13:00:00",
         "icon_src": "update",
-        "link": "https://www.crunchyroll.com/anime-news/2022/07/28-1/princess-connect-re-dive-doubles-up-with-neneka-aoi-student"
-    },
-    {
-        "event_name": "6* Ascensions Unlocked",
-        "start_time": "2022/08/04 13:00:00",
-        "end_time": "2022/08/04 13:00:00",
-        "icon_src": "6star",
-        "link": "https://www.crunchyroll.com/anime-news/2022/07/28-1/princess-connect-re-dive-doubles-up-with-neneka-aoi-student"
+        "link": "https://www.crunchyroll.com/anime-news/2022/08/11/princess-connect-re-dive-cools-off-with-chloe"
     },
     {
         "event_name": "Luna Tower & Clan Battle",
-        "end_time": "2022/07/31 07:59:59",
+        "end_time": "2022/08/31 07:59:59",
         "icon_src": "iblock"
     },
     {
-        "event_name": "July Clan Battle",
-        "start_time": "2022/07/26 13:00:00",
-        "end_time": "2022/07/31 07:59:59",
+        "event_name": "August Luna Tower",
+        "start_time": "2022/08/19 13:00:00",
+        "end_time": "2022/08/24 15:59:59",
+        "icon_src": "luna",
+        "link": "https://www.crunchyroll.com/anime-news/2022/08/11/princess-connect-re-dive-cools-off-with-chloe"
+    },
+    {
+        "event_name": "August Clan Battle",
+        "start_time": "2022/08/26 13:00:00",
+        "end_time": "2022/08/31 07:59:59",
         "icon_src": "clan",
-        "link": "https://www.crunchyroll.com/anime-news/2022/07/12/princess-connect-re-dive-celebrates-its-15-year-anniversary"
+        "link": "https://www.crunchyroll.com/anime-news/2022/08/11/princess-connect-re-dive-cools-off-with-chloe"
     }
 ]

@@ -34,17 +34,21 @@ function datetime(timestamp) {
 
 fetch('static/data.json').then(response => response.json()).then(data => {
     var utc = new Date().getTime();
-    for (let i = 0; i < data.length; i++) {
+    for (let i = data.length - 1; i >= 0; i--){
         let item = data[i];
         let div = document.createElement('div');
         let end_time = new Date(item["end_time"]).getTime() - new Date().getTimezoneOffset() * 60000;
         let start_time = new Date(item["start_time"]).getTime() - new Date().getTimezoneOffset() * 60000;
+        let isBlock = false;
         if (end_time < utc)
             continue;
         if (item["icon_src"] == "iblock") {
+            if (isBlock) continue;
             div.className = "countdown-card iblock";
             div.innerHTML = item["event_name"];
+            isBlock = true;
         } else {
+            isBlock = false;
             let countdown = document.createElement('div');
             let subtitle = document.createElement('div');
             let date = document.createElement('div');
@@ -94,10 +98,10 @@ fetch('static/data.json').then(response => response.json()).then(data => {
             info.appendChild(date);
             div.appendChild(info);
         }
-        document.getElementById("root").appendChild(div);
+        document.getElementById("root").insertBefore(div, document.getElementById("root").firstChild);
     }
     var href = ["got.cr/priconne-update","github.com/trunghieumickey/priconne-en-event-timer","forms.gle/67EqnZhHbjhDhabB7"],
-        scr = ["www.crunchyroll.com/favicons/favicon-32x32.png","github.githubassets.com/favicons/favicon.png","ssl.gstatic.com/docs/spreadsheets/forms/favicon_qp2.png"],
+        scr = ["crunchyroll","github","ggforms"],
         content = ["Crunchyroll Notice","Github Repository","Feedback"];
         div = document.createElement('div');
         div.className = "countdown-card";
@@ -106,7 +110,7 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         a.href = "https://" + href[i];
         a.className = "button";
         let img = document.createElement('img');
-        img.src = "https://" + scr[i];
+        img.src = "https://raw.githubusercontent.com/trunghieumickey/priconne-en-event-timer/gh-pages/icon/" + scr[i] + ".webp";
         img.alt = img.className = "favicon";
         a.appendChild(img);
         a.appendChild(document.createTextNode(content[i]));

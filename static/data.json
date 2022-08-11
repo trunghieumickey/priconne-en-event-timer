@@ -1,7 +1,6 @@
 [
     {
         "event_name": "Focus Gacha",
-        "end_time": "2050/01/01 00:00:00",
         "icon_src": "iblock"
     },
     {
@@ -27,7 +26,6 @@
     },
     {
         "event_name": "Double Events",
-        "end_time": "2050/01/01 00:00:00",
         "icon_src": "iblock"
     },
     {
@@ -74,7 +72,6 @@
     },
     {
         "event_name": "Story Event",
-        "end_time": "2022/08/25 22:59:59",
         "icon_src": "iblock"
     },
     {
@@ -93,7 +90,6 @@
     },
     {
         "event_name": "Patch/Update",
-        "end_time": "2022/08/26 13:00:00",
         "icon_src": "iblock"
     },
     {
@@ -105,7 +101,6 @@
     },
     {
         "event_name": "Luna Tower & Clan Battle",
-        "end_time": "2022/08/31 07:59:59",
         "icon_src": "iblock"
     },
     {

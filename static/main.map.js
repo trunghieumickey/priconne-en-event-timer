@@ -33,7 +33,8 @@ function datetime(timestamp) {
 }
 
 fetch('static/data.json').then(response => response.json()).then(data => {
-    var utc = new Date().getTime();
+    var utc = new Date().getTime(),
+        cdn = "https://raw.githubusercontent.com/trunghieumickey/priconne-en-event-timer/gh-pages/";
     for (let i = data.length - 1; i >= 0; i--){
         let item = data[i];
         let div = document.createElement('div');
@@ -72,7 +73,7 @@ fetch('static/data.json').then(response => response.json()).then(data => {
             let icon = document.createElement('a');
             icon.className = "icon";
             icon.href = item["link"];
-            img.src = "https://raw.githubusercontent.com/trunghieumickey/priconne-en-event-timer/gh-pages/image/" + item["icon_src"] + ".webp";
+            img.src = cdn + "image/" + item["icon_src"] + ".webp";
             img.alt = item["icon_src"];
             title.className = "title";
             title.innerHTML = item["event_name"];
@@ -110,7 +111,7 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         a.href = "https://" + href[i];
         a.className = "button";
         let img = document.createElement('img');
-        img.src = "https://raw.githubusercontent.com/trunghieumickey/priconne-en-event-timer/gh-pages/icon/" + scr[i] + ".webp";
+        img.src = cdn + "icon/" + scr[i] + ".webp";
         img.alt = img.className = "favicon";
         a.appendChild(img);
         a.appendChild(document.createTextNode(content[i]));

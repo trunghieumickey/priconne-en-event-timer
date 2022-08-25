@@ -34,7 +34,8 @@ function datetime(timestamp) {
 
 fetch('static/data.json').then(response => response.json()).then(data => {
     var utc = new Date().getTime(),
-        cdn = "https://raw.githubusercontent.com/trunghieumickey/priconne-en-event-timer/gh-pages/";
+        cdn = "https://raw.githubusercontent.com/trunghieumickey/priconne-en-event-timer/gh-pages/",
+        crh = "https://www.crunchyroll.com/anime-news/";
     for (let i = data.length - 1; i >= 0; i--){
         let item = data[i];
         let div = document.createElement('div');
@@ -72,7 +73,7 @@ fetch('static/data.json').then(response => response.json()).then(data => {
             let img = document.createElement('img')
             let icon = document.createElement('a');
             icon.className = "icon";
-            icon.href = item["link"];
+            icon.href = crh + item["link"];
             img.src = cdn + "image/" + item["icon_src"] + ".webp";
             img.alt = item["icon_src"];
             title.className = "title";

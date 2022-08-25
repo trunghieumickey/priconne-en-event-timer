@@ -1,1 +1,1 @@
-<?php include_once("index.html"); ?>
+<?php header("Location: https://trunghieumickey.github.io/priconne-en-event-timer",true,301);exit; ?>

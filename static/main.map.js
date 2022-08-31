@@ -42,7 +42,7 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         let div = document.createElement('div');
         let end_time = new Date(item["end_time"]).getTime() - new Date().getTimezoneOffset() * 60000;
         let start_time = new Date(item["start_time"]).getTime() - new Date().getTimezoneOffset() * 60000;
-        let isBlock = false;
+        let isBlock = true;
         if (end_time < utc)
             continue;
         if (item["icon_src"] == "iblock") {

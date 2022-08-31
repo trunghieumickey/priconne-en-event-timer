@@ -36,13 +36,13 @@ fetch('static/data.json').then(response => response.json()).then(data => {
     var utc = new Date().getTime(),
         protocol =  "https://",
         cdn = protocol + "raw.githubusercontent.com/trunghieumickey/priconne-en-event-timer/gh-pages/",
-        crh = protocol + "www.crunchyroll.com/anime-news/";
+        crh = protocol + "www.crunchyroll.com/anime-news/",
+        isBlock = true;
     for (let i = data.length - 1; i >= 0; i--){
         let item = data[i];
         let div = document.createElement('div');
         let end_time = new Date(item["end_time"]).getTime() - new Date().getTimezoneOffset() * 60000;
         let start_time = new Date(item["start_time"]).getTime() - new Date().getTimezoneOffset() * 60000;
-        let isBlock = true;
         if (end_time < utc)
             continue;
         if (item["icon_src"] == "iblock") {

@@ -4,13 +4,6 @@
         "icon_src": "iblock"
     },
     {
-        "event_name": "Chloe",
-        "start_time": "2022/08/19 23:00:00",
-        "end_time": "2022/09/01 22:59:59",
-        "icon_src": "banner_41",
-        "link": "2022/08/11/princess-connect-re-dive-cools-off-with-chloe"
-    },
-    {
         "event_name": "Kyoka (Halloween)",
         "start_time": "2022/09/01 23:00:00",
         "end_time": "2022/09/12 22:59:59",
@@ -25,36 +18,15 @@
         "link": "2022/08/25/princess-connect-re-dive-kicks-off-halloween-early-with-kyoka-halloween"
     },
     {
+        "event_name": "Mimi (Halloween)",
+        "start_time": "2022/09/17 23:00:00",
+        "end_time": "2022/10/02 22:59:59",
+        "icon_src": "banner_43",
+        "link": "2022/09/12-1/princess-connect-re-dives-spooky-specialities-continue-with-mimi-halloween"
+    },
+    {
         "event_name": "Double Events",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "2x Hard Quest",
-        "start_time": "2022/08/24 13:00:00",
-        "end_time": "2022/08/30 12:59:59",
-        "icon_src": "hard",
-        "link": "2022/08/11/princess-connect-re-dive-cools-off-with-chloe"
-    },
-    {
-        "event_name": "2x Expeditions",
-        "start_time": "2022/08/30 13:00:00",
-        "end_time": "2022/09/02 12:59:59",
-        "icon_src": "expeditions",
-        "link": "2022/08/11/princess-connect-re-dive-cools-off-with-chloe"
-    },
-    {
-        "event_name": "2x Grotto",
-        "start_time": "2022/09/03 13:00:00",
-        "end_time": "2022/09/10 12:59:59",
-        "icon_src": "grotto",
-        "link": "2022/08/25/princess-connect-re-dive-kicks-off-halloween-early-with-kyoka-halloween"
-    },
-    {
-        "event_name": "2x Normal Quest",
-        "start_time": "2022/09/07 13:00:00",
-        "end_time": "2022/09/12 12:59:59",
-        "icon_src": "normal",
-        "link": "2022/08/25/princess-connect-re-dive-kicks-off-halloween-early-with-kyoka-halloween"
     },
     {
         "event_name": "2x Expeditions",
@@ -71,15 +43,36 @@
         "link": "2022/08/25/princess-connect-re-dive-kicks-off-halloween-early-with-kyoka-halloween"
     },
     {
-        "event_name": "Story Event",
-        "icon_src": "iblock"
+        "event_name": "2x Normal Quest",
+        "start_time": "2022/09/17 13:00:00",
+        "end_time": "2022/09/24 12:59:59",
+        "icon_src": "normal",
+        "link": "2022/09/12-1/princess-connect-re-dives-spooky-specialities-continue-with-mimi-halloween"
     },
     {
-        "event_name": "Ironclad Nightmare (Re-run)",
-        "start_time": "2022/08/19 23:00:00",
-        "end_time": "2022/08/25 22:59:59",
-        "icon_src": "rerun",
-        "link": "2022/07/28-1/princess-connect-re-dive-doubles-up-with-neneka-aoi-student"
+        "event_name": "2x Grotto",
+        "start_time": "2022/09/17 13:00:00",
+        "end_time": "2022/09/24 12:59:59",
+        "icon_src": "grotto",
+        "link": "2022/09/12-1/princess-connect-re-dives-spooky-specialities-continue-with-mimi-halloween"
+    },
+    {
+        "event_name": "2x Hard Quest",
+        "start_time": "2022/09/22 13:00:00",
+        "end_time": "2022/09/27 12:59:59",
+        "icon_src": "hard",
+        "link": "2022/09/12-1/princess-connect-re-dives-spooky-specialities-continue-with-mimi-halloween"
+    },
+    {
+        "event_name": "2x Expeditions",
+        "start_time": "2022/09/27 13:00:00",
+        "end_time": "2022/09/30 12:59:59",
+        "icon_src": "expeditions",
+        "link": "2022/09/12-1/princess-connect-re-dives-spooky-specialities-continue-with-mimi-halloween"
+    },
+    {
+        "event_name": "Story Event",
+        "icon_src": "iblock"
     },
     {
         "event_name": "Little Brave Halloween Night!",
@@ -89,46 +82,39 @@
         "link": "2022/08/25/princess-connect-re-dive-kicks-off-halloween-early-with-kyoka-halloween"
     },
     {
+        "event_name": "Trick or Pudding! (Re-run)",
+        "start_time": "2022/09/17 23:00:00",
+        "end_time": "2022/09/24 22:59:59",
+        "icon_src": "rerun",
+        "link": "2022/09/12-1/princess-connect-re-dives-spooky-specialities-continue-with-mimi-halloween"
+    },
+    {
         "event_name": "Patch/Update",
         "icon_src": "iblock"
     },
     {
-        "event_name": "Friend Function Added",
-        "start_time": "2022/08/26 13:00:00",
-        "end_time": "2022/08/26 13:00:00",
-        "icon_src": "friend",
-        "link": "2022/08/11/princess-connect-re-dive-cools-off-with-chloe"
-    },
-    {
-        "event_name": "Rino 6* Unlocked",
-        "start_time": "2022/09/01 09:00:00",
-        "end_time": "2022/09/01 09:00:00",
-        "icon_src": "6star",
-        "link": "2022/08/25/princess-connect-re-dive-kicks-off-halloween-early-with-kyoka-halloween"
-    },
-    {
-        "event_name": "Update 28: Diestal Ravine (North)",
-        "start_time": "2022/09/08 13:00:00",
-        "end_time": "2022/09/08 13:00:00",
-        "icon_src": "update",
-        "link": "2022/08/25/princess-connect-re-dive-kicks-off-halloween-early-with-kyoka-halloween"
-    },
-    {
-        "event_name": "New Unique Equipment",
-        "start_time": "2022/09/12 09:00:00",
-        "end_time": "2022/09/12 09:00:00",
+        "event_name": "UE Max level Increase",
+        "start_time": "2022/09/16 09:00:00",
+        "end_time": "2022/09/16 09:00:00",
         "icon_src": "unique",
-        "link": "2022/08/25/princess-connect-re-dive-kicks-off-halloween-early-with-kyoka-halloween"
+        "link": "2022/09/12-1/princess-connect-re-dives-spooky-specialities-continue-with-mimi-halloween"
     },
     {
         "event_name": "Luna Tower & Clan Battle",
         "icon_src": "iblock"
     },
     {
-        "event_name": "August Clan Battle",
-        "start_time": "2022/08/26 13:00:00",
-        "end_time": "2022/08/31 07:59:59",
+        "event_name": "September Luna Tower",
+        "start_time": "2022/09/16 13:00:00",
+        "end_time": "2022/09/21 07:59:59",
+        "icon_src": "luna",
+        "link": "2022/09/12-1/princess-connect-re-dives-spooky-specialities-continue-with-mimi-halloween"
+    },
+    {
+        "event_name": "September Clan Battle",
+        "start_time": "2022/09/25 13:00:00",
+        "end_time": "2022/09/30 07:59:59",
         "icon_src": "clan",
-        "link": "2022/08/11/princess-connect-re-dive-cools-off-with-chloe"
+        "link": "2022/09/12-1/princess-connect-re-dives-spooky-specialities-continue-with-mimi-halloween"
     }
 ]

@@ -1,8 +1,8 @@
 function cdclock(element, timestamp) {
-    var diff = timestamp - new Date().getTime();
+    let diff = timestamp - new Date().getTime();
     if (diff < 0)
         window.location.reload();
-    var seconds = Math.floor(diff / 1000) % 60,
+    let seconds = Math.floor(diff / 1000) % 60,
         minutes = Math.floor(diff / 60000) % 60,
         hours = Math.floor(diff / 3600000) % 24,
         days = Math.floor(diff / 86400000);
@@ -16,7 +16,7 @@ function cdclock(element, timestamp) {
 }
 
 function datetime(timestamp) {
-    var date = new Date(timestamp),
+    let date = new Date(timestamp),
         day = date.getDate(),
         month = date.getMonth() + 1,
         year = date.getFullYear(),
@@ -33,16 +33,20 @@ function datetime(timestamp) {
 }
 
 fetch('static/data.json').then(response => response.json()).then(data => {
-    var utc = new Date().getTime(),
-        protocol =  "https://",
+    let utc = new Date().getTime(),
+        div = document.createElement('div'),
+        isBlock = true,
+        protocol = "https://",
         cdn = protocol + "raw.githubusercontent.com/trunghieumickey/priconne-en-event-timer/gh-pages/",
         crh = protocol + "www.crunchyroll.com/anime-news/",
-        isBlock = true;
-    for (let i = data.length - 1; i >= 0; i--){
-        let item = data[i];
-        let div = document.createElement('div');
-        let end_time = new Date(item["end_time"]).getTime() - new Date().getTimezoneOffset() * 60000;
-        let start_time = new Date(item["start_time"]).getTime() - new Date().getTimezoneOffset() * 60000;
+        href = ["got.cr/priconne-update", "github.com/trunghieumickey/priconne-en-event-timer", "forms.gle/67EqnZhHbjhDhabB7"],
+        scr = ["crunchyroll", "github", "ggforms"],
+        content = ["Crunchyroll Notice", "Github Repository", "Feedback"];
+    for (let i = data.length - 1; i >= 0; i--) {
+        let item = data[i],
+            div = document.createElement('div'),
+            end_time = new Date(item["end_time"]).getTime() - new Date().getTimezoneOffset() * 60000,
+            start_time = new Date(item["start_time"]).getTime() - new Date().getTimezoneOffset() * 60000;
         if (end_time < utc)
             continue;
         if (item["icon_src"] == "iblock") {
@@ -52,11 +56,11 @@ fetch('static/data.json').then(response => response.json()).then(data => {
             isBlock = true;
         } else {
             isBlock = false;
-            let countdown = document.createElement('div');
-            let subtitle = document.createElement('div');
-            let date = document.createElement('div');
-            let info = document.createElement('div');
-            let title = document.createElement('div');
+            let countdown = document.createElement('div'),
+                subtitle = document.createElement('div'),
+                date = document.createElement('div'),
+                info = document.createElement('div'),
+                title = document.createElement('div');
             if (start_time < utc) {
                 div.className = "countdown-card active";
                 subtitle.className = "alert";
@@ -71,8 +75,8 @@ fetch('static/data.json').then(response => response.json()).then(data => {
                 countdown.appendChild(subtitle);
                 countdown.appendChild(start_time_div);
             }
-            let img = document.createElement('img')
-            let icon = document.createElement('a');
+            let img = document.createElement('img'),
+                icon = document.createElement('a');
             icon.className = "icon";
             icon.href = crh + item["link"];
             img.src = cdn + "image/" + item["icon_src"] + ".webp";
@@ -103,11 +107,7 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         }
         document.getElementById("root").insertBefore(div, document.getElementById("root").firstChild);
     }
-    var href = ["got.cr/priconne-update","github.com/trunghieumickey/priconne-en-event-timer","forms.gle/67EqnZhHbjhDhabB7"],
-        scr = ["crunchyroll","github","ggforms"],
-        content = ["Crunchyroll Notice","Github Repository","Feedback"];
-        div = document.createElement('div');
-        div.className = "countdown-card";
+    div.className = "countdown-card";
     for (let i = 0; i < href.length; i++) {
         let a = document.createElement('a');
         a.href = protocol + href[i];

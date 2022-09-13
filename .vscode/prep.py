@@ -17,7 +17,7 @@ while True:
 
 for i in data:
     if(i["icon_src"]!="iblock"):
-        i["link"] = i["link"].split("https://www.crunchyroll.com/anime-news/")[-1]
+        i["link"] = i["link"].split("https://www.crunchyroll.com/anime-news/20")[-1]
 
 with open(cwf, "w") as f:
     json.dump(data, f, indent=4)

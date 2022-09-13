@@ -38,9 +38,8 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         isBlock = true,
         protocol = "https://",
         cdn = protocol + "raw.githubusercontent.com/trunghieumickey/priconne-en-event-timer/gh-pages/",
-        crh = protocol + "www.crunchyroll.com/anime-news/",
+        crh = protocol + "www.crunchyroll.com/anime-news/20",
         href = ["got.cr/priconne-update", "github.com/trunghieumickey/priconne-en-event-timer", "forms.gle/67EqnZhHbjhDhabB7"],
-        scr = ["crunchyroll", "github", "ggforms"],
         content = ["Crunchyroll Notice", "Github Repository", "Feedback"];
     for (let i = data.length - 1; i >= 0; i--) {
         let item = data[i],
@@ -113,7 +112,7 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         a.href = protocol + href[i];
         a.className = "button";
         let img = document.createElement('img');
-        img.src = cdn + "icon/" + scr[i] + ".webp";
+        img.src = cdn + "icon/" + content[i] + ".webp";
         img.alt = img.className = "favicon";
         a.appendChild(img);
         a.appendChild(document.createTextNode(content[i]));

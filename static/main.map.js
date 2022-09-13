@@ -114,7 +114,7 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         a.className = "button";
         let img = document.createElement('img');
         img.src = cdn + "icon/" + scr[i] + ".webp";
-        img.alt = img.className = scr[i];
+        img.alt = img.className = "favicon";
         a.appendChild(img);
         a.appendChild(document.createTextNode(content[i]));
         div.appendChild(a);

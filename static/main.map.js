@@ -38,7 +38,7 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         isBlock = true,
         protocol = "https://",
         cdn = protocol + "raw.githubusercontent.com/trunghieumickey/priconne-en-event-timer/gh-pages/",
-        crh = protocol + "www.crunchyroll.com/anime-news/",
+        crh = protocol + "www.crunchyroll.com/anime-news/20",
         href = ["got.cr/priconne-update", "github.com/trunghieumickey/priconne-en-event-timer", "forms.gle/67EqnZhHbjhDhabB7"],
         scr = ["crunchyroll", "github", "ggforms"],
         content = ["Crunchyroll Notice", "Github Repository", "Feedback"];

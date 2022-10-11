@@ -4,13 +4,6 @@
         "icon_src": "iblock"
     },
     {
-        "event_name": "Mimi (Halloween)",
-        "start_time": "2022/09/17 23:00:00",
-        "end_time": "2022/10/02 22:59:59",
-        "icon_src": "banner_43",
-        "link": "22/09/12-1/princess-connect-re-dives-spooky-specialities-continue-with-mimi-halloween"
-    },
-    {
         "event_name": "Luna",
         "start_time": "2022/10/02 23:00:00",
         "end_time": "2022/10/13 22:59:59",
@@ -25,36 +18,15 @@
         "link": "22/09/26/princess-connect-re-dive-meets-shadowverses-luna"
     },
     {
+        "event_name": "Kaya",
+        "start_time": "2022/10/17 23:00:00",
+        "end_time": "2022/11/01 22:59:59",
+        "icon_src": "banner_45",
+        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
+    },
+    {
         "event_name": "Double Events",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "2x Hard Quest",
-        "start_time": "2022/09/22 13:00:00",
-        "end_time": "2022/09/27 12:59:59",
-        "icon_src": "hard",
-        "link": "22/09/12-1/princess-connect-re-dives-spooky-specialities-continue-with-mimi-halloween"
-    },
-    {
-        "event_name": "2x Expeditions",
-        "start_time": "2022/09/27 13:00:00",
-        "end_time": "2022/09/30 12:59:59",
-        "icon_src": "expeditions",
-        "link": "22/09/12-1/princess-connect-re-dives-spooky-specialities-continue-with-mimi-halloween"
-    },
-    {
-        "event_name": "2x Normal Quest",
-        "start_time": "2022/09/28 13:00:00",
-        "end_time": "2022/10/02 12:59:59",
-        "icon_src": "normal",
-        "link": "22/09/26/princess-connect-re-dive-meets-shadowverses-luna"
-    },
-    {
-        "event_name": "2x Grotto",
-        "start_time": "2022/10/02 13:00:00",
-        "end_time": "2022/10/10 12:59:59",
-        "icon_src": "grotto",
-        "link": "22/09/26/princess-connect-re-dive-meets-shadowverses-luna"
     },
     {
         "event_name": "2x Normal Quest",
@@ -71,6 +43,48 @@
         "link": "22/09/26/princess-connect-re-dive-meets-shadowverses-luna"
     },
     {
+        "event_name": "2x Dungeon",
+        "start_time": "2022/10/15 13:00:00",
+        "end_time": "2022/10/24 12:59:59",
+        "icon_src": "dungeon",
+        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
+    },
+    {
+        "event_name": "2x Normal Quest",
+        "start_time": "2022/10/17 13:00:00",
+        "end_time": "2022/10/22 12:59:59",
+        "icon_src": "normal",
+        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
+    },
+    {
+        "event_name": "2x Grotto",
+        "start_time": "2022/10/17 13:00:00",
+        "end_time": "2022/10/25 12:59:59",
+        "icon_src": "grotto",
+        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
+    },
+    {
+        "event_name": "2x Hard Quest",
+        "start_time": "2022/10/25 13:00:00",
+        "end_time": "2022/10/30 12:59:59",
+        "icon_src": "hard",
+        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
+    },
+    {
+        "event_name": "2x Expeditions",
+        "start_time": "2022/10/25 13:00:00",
+        "end_time": "2022/10/30 12:59:59",
+        "icon_src": "expeditions",
+        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
+    },
+    {
+        "event_name": "2x Normal Quest",
+        "start_time": "2022/10/30 13:00:00",
+        "end_time": "2022/11/05 12:59:59",
+        "icon_src": "normal",
+        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
+    },
+    {
         "event_name": "Story Event",
         "icon_src": "iblock"
     },
@@ -80,6 +94,13 @@
         "end_time": "2022/10/16 22:59:59",
         "icon_src": "story",
         "link": "22/09/26/princess-connect-re-dive-meets-shadowverses-luna"
+    },
+    {
+        "event_name": "Twilight Breakers (Re-run)",
+        "start_time": "2022/10/02 23:00:00",
+        "end_time": "2022/10/16 22:59:59",
+        "icon_src": "rerun",
+        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
     },
     {
         "event_name": "Patch/Update",
@@ -93,21 +114,21 @@
         "link": "22/09/26/princess-connect-re-dive-meets-shadowverses-luna"
     },
     {
-        "event_name": "Friend Battles Added",
-        "start_time": "2022/10/02 13:00:00",
-        "end_time": "2022/10/02 13:00:00",
-        "icon_src": "friend",
-        "link": "22/09/26/princess-connect-re-dive-meets-shadowverses-luna"
-    },
-    {
         "event_name": "Luna Tower & Clan Battle",
         "icon_src": "iblock"
     },
     {
-        "event_name": "September Clan Battle",
-        "start_time": "2022/09/25 13:00:00",
-        "end_time": "2022/09/30 07:59:59",
+        "event_name": "October Luna Tower",
+        "start_time": "2022/10/17 13:00:00",
+        "end_time": "2022/10/22 15:59:59",
+        "icon_src": "luna",
+        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
+    },
+    {
+        "event_name": "October Clan Battle",
+        "start_time": "2022/10/26 13:00:00",
+        "end_time": "2022/10/31 07:59:59",
         "icon_src": "clan",
-        "link": "22/09/12-1/princess-connect-re-dives-spooky-specialities-continue-with-mimi-halloween"
+        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
     }
 ]

@@ -57,7 +57,7 @@
         "event_name": "Story Part 1 Full Unlock",
         "start_time": "2022/11/01 09:00:00",
         "end_time": "2022/11/01 09:00:00",
-        "icon_src": "6star",
+        "icon_src": "unlock",
         "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
     },
     {
@@ -71,7 +71,7 @@
         "event_name": "New Unique Equipment",
         "start_time": "2022/11/12 09:00:00",
         "end_time": "2022/11/12 09:00:00",
-        "icon_src": "update",
+        "icon_src": "unique",
         "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
     },
     {

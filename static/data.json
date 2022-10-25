@@ -4,20 +4,6 @@
         "icon_src": "iblock"
     },
     {
-        "event_name": "Luna",
-        "start_time": "2022/10/02 23:00:00",
-        "end_time": "2022/10/13 22:59:59",
-        "icon_src": "banner_44",
-        "link": "22/09/26/princess-connect-re-dive-meets-shadowverses-luna"
-    },
-    {
-        "event_name": "Ruka, Nanaka & Eriko",
-        "start_time": "2022/10/13 23:00:00",
-        "end_time": "2022/10/17 22:59:59",
-        "icon_src": "prize",
-        "link": "22/09/26/princess-connect-re-dive-meets-shadowverses-luna"
-    },
-    {
         "event_name": "Kaya",
         "start_time": "2022/10/17 23:00:00",
         "end_time": "2022/11/01 22:59:59",
@@ -25,15 +11,22 @@
         "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
     },
     {
-        "event_name": "Story Event",
-        "icon_src": "iblock"
+        "event_name": "Christina (Holiday)",
+        "start_time": "2022/11/01 23:00:00",
+        "end_time": "2022/11/12 22:59:59",
+        "icon_src": "banner_46",
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
     },
     {
-        "event_name": "Dragon Explorers",
-        "start_time": "2022/10/02 23:00:00",
-        "end_time": "2022/10/16 22:59:59",
-        "icon_src": "story",
-        "link": "22/09/26/princess-connect-re-dive-meets-shadowverses-luna"
+        "event_name": "[Holiday] Chika & Ayane",
+        "start_time": "2022/11/12 23:00:00",
+        "end_time": "2022/11/22 22:59:59",
+        "icon_src": "prize",
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
+    },
+    {
+        "event_name": "Story Event",
+        "icon_src": "iblock"
     },
     {
         "event_name": "Twilight Breakers (Re-run)",
@@ -43,26 +36,54 @@
         "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
     },
     {
+        "event_name": "The Santas of Landosol",
+        "start_time": "2022/11/01 23:00:00",
+        "end_time": "2022/11/15 22:59:59",
+        "icon_src": "story",
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
+    },
+    {
+        "event_name": "The Carol That Never Was (Re-run)",
+        "start_time": "2022/11/17 23:00:00",
+        "end_time": "2022/11/24 22:59:59",
+        "icon_src": "rerun_nov",
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
+    },
+    {
         "event_name": "Patch/Update",
         "icon_src": "iblock"
     },
     {
-        "event_name": "Update 29: Diestal Ravine (South)",
-        "start_time": "2022/10/13 13:00:00",
-        "end_time": "2022/10/13 13:00:00",
+        "event_name": "Story Part 1 Full Unlock",
+        "start_time": "2022/11/01 09:00:00",
+        "end_time": "2022/11/01 09:00:00",
+        "icon_src": "6star",
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
+    },
+    {
+        "event_name": "Io 6* Avalable",
+        "start_time": "2022/11/01 13:00:00",
+        "end_time": "2022/11/01 13:00:00",
+        "icon_src": "6star",
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
+    },
+    {
+        "event_name": "New Unique Equipment",
+        "start_time": "2022/11/12 09:00:00",
+        "end_time": "2022/11/12 09:00:00",
         "icon_src": "update",
-        "link": "22/09/26/princess-connect-re-dive-meets-shadowverses-luna"
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
+    },
+    {
+        "event_name": "Update 30: Photella Cliffs (North)",
+        "start_time": "2022/11/16 13:00:00",
+        "end_time": "2022/11/16 13:00:00",
+        "icon_src": "update",
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
     },
     {
         "event_name": "Luna Tower & Clan Battle",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "October Luna Tower",
-        "start_time": "2022/10/17 13:00:00",
-        "end_time": "2022/10/22 15:59:59",
-        "icon_src": "luna",
-        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
     },
     {
         "event_name": "October Clan Battle",
@@ -72,43 +93,15 @@
         "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
     },
     {
+        "event_name": "November Luna Tower",
+        "start_time": "2022/11/16 13:00:00",
+        "end_time": "2022/11/21 15:59:59",
+        "icon_src": "luna",
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
+    },
+    {
         "event_name": "Multiplier Events",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "2x Normal Quest",
-        "start_time": "2022/10/10 13:00:00",
-        "end_time": "2022/10/15 12:59:59",
-        "icon_src": "normal",
-        "link": "22/09/26/princess-connect-re-dive-meets-shadowverses-luna"
-    },
-    {
-        "event_name": "2x Expeditions",
-        "start_time": "2022/10/13 13:00:00",
-        "end_time": "2022/10/18 12:59:59",
-        "icon_src": "expeditions",
-        "link": "22/09/26/princess-connect-re-dive-meets-shadowverses-luna"
-    },
-    {
-        "event_name": "2x Dungeon",
-        "start_time": "2022/10/15 13:00:00",
-        "end_time": "2022/10/24 12:59:59",
-        "icon_src": "dungeon",
-        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
-    },
-    {
-        "event_name": "2x Normal Quest",
-        "start_time": "2022/10/17 13:00:00",
-        "end_time": "2022/10/22 12:59:59",
-        "icon_src": "normal",
-        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
-    },
-    {
-        "event_name": "2x Grotto",
-        "start_time": "2022/10/17 13:00:00",
-        "end_time": "2022/10/25 12:59:59",
-        "icon_src": "grotto",
-        "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
     },
     {
         "event_name": "2x Hard Quest",
@@ -130,5 +123,40 @@
         "end_time": "2022/11/05 12:59:59",
         "icon_src": "normal",
         "link": "22/10/11/princess-connect-re-dive-dials-up-the-dragons-with-kaya"
+    },
+    {
+        "event_name": "1.5x Player EXP",
+        "start_time": "2022/11/05 13:00:00",
+        "end_time": "2022/12/05 12:59:59",
+        "icon_src": "exp",
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
+    },
+    {
+        "event_name": "2x Grotto",
+        "start_time": "2022/11/05 13:00:00",
+        "end_time": "2022/11/11 12:59:59",
+        "icon_src": "grotto",
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
+    },
+    {
+        "event_name": "2x Normal Quest",
+        "start_time": "2022/11/09 13:00:00",
+        "end_time": "2022/11/24 12:59:59",
+        "icon_src": "normal",
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
+    },
+    {
+        "event_name": "2x Expeditions",
+        "start_time": "2022/11/12 13:00:00",
+        "end_time": "2022/11/17 12:59:59",
+        "icon_src": "expeditions",
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
+    },
+    {
+        "event_name": "2x Grotto",
+        "start_time": "2022/11/16 13:00:00",
+        "end_time": "2022/11/24 12:59:59",
+        "icon_src": "grotto",
+        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
     }
 ]

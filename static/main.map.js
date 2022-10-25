@@ -36,6 +36,7 @@ fetch('static/data.json').then(response => response.json()).then(data => {
     let utc = new Date().getTime(),
         div = document.createElement('div'),
         isBlock = true,
+        isDouble = true,
         protocol = "https://",
         cdn = protocol + "raw.githubusercontent.com/trunghieumickey/priconne-en-event-timer/gh-pages/image/",
         crh = protocol + "www.crunchyroll.com/anime-news/20",
@@ -54,6 +55,7 @@ fetch('static/data.json').then(response => response.json()).then(data => {
             div.className = "countdown-card iblock";
             div.innerHTML = item["event_name"];
             isBlock = true;
+            isDouble = false;
         } else {
             isBlock = false;
             let countdown = document.createElement('div'),
@@ -79,7 +81,10 @@ fetch('static/data.json').then(response => response.json()).then(data => {
                 icon = document.createElement('a');
             icon.className = "icon";
             icon.href = crh + item["link"];
-            img.src = cdn + item["icon_src"] + ".webp";
+            if (isDouble)
+                img.src = cdn + "double/" + item["icon_src"] + ".webp";
+            else
+                img.src = cdn + item["icon_src"] + ".webp";
             img.alt = item["icon_src"];
             title.className = "title";
             title.innerHTML = item["event_name"];

@@ -4,13 +4,6 @@
         "icon_src": "iblock"
     },
     {
-        "event_name": "[Holiday] Chika & Ayane",
-        "start_time": "2022/11/12 23:00:00",
-        "end_time": "2022/11/22 22:59:59",
-        "icon_src": "prize",
-        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
-    },
-    {
         "event_name": "Illya (Holiday)",
         "start_time": "2022/11/22 23:00:00",
         "end_time": "2022/12/03 22:59:59",
@@ -18,22 +11,29 @@
         "link": "22/11/15/princess-connect-re-dive-continues-the-festivities-with-illya-holiday"
     },
     {
+        "event_name": "Princess Gala",
+        "start_time": "2022/12/03 23:00:00",
+        "end_time": "2022/12/06 22:59:59",
+        "icon_src": "gala",
+        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
+    },
+    {
+        "event_name": "Karyl (New Year)",
+        "start_time": "2022/12/03 23:00:00",
+        "end_time": "2022/12/13 22:59:59",
+        "icon_src": "banner_48",
+        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
+    },
+    {
+        "event_name": "Hiyori & Yui [New Year]",
+        "start_time": "2022/12/13 23:00:00",
+        "end_time": "2022/12/19 22:59:59",
+        "icon_src": "rerun",
+        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
+    },
+    {
         "event_name": "Story Event",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "The Santas of Landosol",
-        "start_time": "2022/11/01 23:00:00",
-        "end_time": "2022/11/15 22:59:59",
-        "icon_src": "story",
-        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
-    },
-    {
-        "event_name": "The Carol That Never Was (Re-run)",
-        "start_time": "2022/11/17 23:00:00",
-        "end_time": "2022/11/24 22:59:59",
-        "icon_src": "rerun_nov",
-        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
     },
     {
         "event_name": "Final Battle of Landosol",
@@ -43,22 +43,15 @@
         "link": "22/11/15/princess-connect-re-dive-continues-the-festivities-with-illya-holiday"
     },
     {
+        "event_name": "The Landosol Guild Race",
+        "start_time": "2022/12/03 23:00:00",
+        "end_time": "2022/12/17 22:59:59",
+        "icon_src": "story",
+        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
+    },
+    {
         "event_name": "Patch/Update",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "Update 30: Photella Cliffs (North)",
-        "start_time": "2022/11/16 13:00:00",
-        "end_time": "2022/11/16 13:00:00",
-        "icon_src": "update",
-        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
-    },
-    {
-        "event_name": "Guildhouse Updates",
-        "start_time": "2022/11/24 09:00:00",
-        "end_time": "2022/11/24 09:00:00",
-        "icon_src": "house",
-        "link": "22/11/15/princess-connect-re-dive-continues-the-festivities-with-illya-holiday"
     },
     {
         "event_name": "Update Normal Missions",
@@ -68,15 +61,22 @@
         "link": "22/11/15/princess-connect-re-dive-continues-the-festivities-with-illya-holiday"
     },
     {
-        "event_name": "Luna Tower & Clan Battle",
-        "icon_src": "iblock"
+        "event_name": "Yukari 6* Unlocked",
+        "start_time": "2022/12/03 09:00:00",
+        "end_time": "2022/12/03 09:00:00",
+        "icon_src": "6star",
+        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
     },
     {
-        "event_name": "November Luna Tower",
-        "start_time": "2022/11/16 13:00:00",
-        "end_time": "2022/11/21 15:59:59",
-        "icon_src": "luna",
-        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
+        "event_name": "New Unique Equipment",
+        "start_time": "2022/12/13 09:00:00",
+        "end_time": "2022/12/13 09:00:00",
+        "icon_src": "unique",
+        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
+    },
+    {
+        "event_name": "Luna Tower & Clan Battle",
+        "icon_src": "iblock"
     },
     {
         "event_name": "November Clan Battle",
@@ -97,34 +97,6 @@
         "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
     },
     {
-        "event_name": "2x Normal Quest",
-        "start_time": "2022/11/09 13:00:00",
-        "end_time": "2022/11/24 12:59:59",
-        "icon_src": "normal",
-        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
-    },
-    {
-        "event_name": "2x Expeditions",
-        "start_time": "2022/11/12 13:00:00",
-        "end_time": "2022/11/17 12:59:59",
-        "icon_src": "expeditions",
-        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
-    },
-    {
-        "event_name": "2x Grotto",
-        "start_time": "2022/11/16 13:00:00",
-        "end_time": "2022/11/24 12:59:59",
-        "icon_src": "grotto",
-        "link": "22/10/25/princess-connect-re-dive-rings-in-the-holidays-with-christina-holiday"
-    },
-    {
-        "event_name": "2x Dungeon",
-        "start_time": "2022/11/19 13:00:00",
-        "end_time": "2022/11/26 12:59:59",
-        "icon_src": "dungeon",
-        "link": "22/11/15/princess-connect-re-dive-continues-the-festivities-with-illya-holiday"
-    },
-    {
         "event_name": "2x Hard Quest",
         "start_time": "2022/11/26 13:00:00",
         "end_time": "2022/11/30 12:59:59",
@@ -137,5 +109,26 @@
         "end_time": "2022/12/01 12:59:59",
         "icon_src": "expeditions",
         "link": "22/11/15/princess-connect-re-dive-continues-the-festivities-with-illya-holiday"
+    },
+    {
+        "event_name": "2x Normal Quest",
+        "start_time": "2022/11/30 13:00:00",
+        "end_time": "2022/12/05 12:59:59",
+        "icon_src": "normal",
+        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
+    },
+    {
+        "event_name": "2x Grotto",
+        "start_time": "2022/12/06 13:00:00",
+        "end_time": "2022/12/13 12:59:59",
+        "icon_src": "grotto",
+        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
+    },
+    {
+        "event_name": "2x Dungeon",
+        "start_time": "2022/12/14 13:00:00",
+        "end_time": "2022/12/20 12:59:59",
+        "icon_src": "dungeon",
+        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
     }
 ]

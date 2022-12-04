@@ -1,5 +1,16 @@
 [
     {
+        "event_name": "Free Gacha Draws",
+        "icon_src": "iblock"
+    },
+    {
+        "event_name": "150 Free Draws",
+        "start_time": "2022/11/22 13:00:00",
+        "end_time": "2022/12/06 10:59:59",
+        "icon_src": "freepull",
+        "link": "22/11/15/princess-connect-re-dive-continues-the-festivities-with-illya-holiday"
+    },
+    {
         "event_name": "Focus Gacha",
         "icon_src": "iblock"
     },

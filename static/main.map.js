@@ -1,3 +1,5 @@
+const sMonthName = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
 function cdclock(element, timestamp) {
     let diff = timestamp - new Date().getTime();
     if (diff < 0)
@@ -24,12 +26,14 @@ function datetime(timestamp) {
         minute = date.getMinutes(),
         second = date.getSeconds(),
         offset = -date.getTimezoneOffset() / 60;
+        isnight = true;
+    if (hour < 12) isnight = false;
+    hour = hour % 12 || 12;
     if (hour < 10) hour = "0" + hour;
     if (minute < 10) minute = "0" + minute;
     if (second < 10) second = "0" + second;
     if (day < 10) day = "0" + day;
-    if (month < 10) month = "0" + month;
-    return year + "-" + month + "-" + day + " " + hour + ":" + minute + ":" + second + " UTC" + (offset > 0 ? "+" : "") + offset;
+    return year + " " + sMonthName[month - 1] + " " + day + " " + hour + ":" + minute + ":" + second + " " + (isnight ? "PM" : "AM") + " UTC" + (offset > 0 ? "+" : "") + offset;
 }
 
 fetch('static/data.json').then(response => response.json()).then(data => {

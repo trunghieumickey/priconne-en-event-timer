@@ -38,7 +38,7 @@ function datetime(timestamp) {
 
 fetch('static/data.json').then(response => response.json()).then(data => {
     let utc = new Date().getTime(),
-        div = document.createElement('div'),
+        big_div = document.createElement('div'),
         isBlock = true,
         isDouble = true,
         protocol = "https://",
@@ -116,7 +116,8 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         }
         document.getElementById("root").insertBefore(div, document.getElementById("root").firstChild);
     }
-    div.className = "countdown-card";
+    big_div = document.createElement('div'),
+    big_div.className = "countdown-card";
     for (let i = 0; i < href.length; i++) {
         let a = document.createElement('a');
         a.href = protocol + href[i];
@@ -126,7 +127,7 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         img.alt = img.className = "favicon";
         a.appendChild(img);
         a.appendChild(document.createTextNode(content[i]));
-        div.appendChild(a);
+        big_div.appendChild(a);
     }
-    document.getElementById("root").appendChild(div);
+    document.getElementById("root").appendChild(big_div);
 })

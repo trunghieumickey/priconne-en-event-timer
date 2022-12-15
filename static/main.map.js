@@ -114,7 +114,12 @@ fetch('static/data.json').then(response => response.json()).then(data => {
             info.appendChild(date);
             div.appendChild(info);
         }
-        document.getElementById("root").insertBefore(div, document.getElementById("root").firstChild);
+        big_div.insertBefore(div,big_div.firstChild)
+        if (isBlock){
+        document.getElementById("root").insertBefore(big_div, document.getElementById("root").firstChild);
+        big_div.className = "sub";
+        big_div = document.createElement('div');
+        }
     }
     big_div = document.createElement('div'),
     big_div.className = "countdown-card";
@@ -129,5 +134,5 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         a.appendChild(document.createTextNode(content[i]));
         big_div.appendChild(a);
     }
-    document.getElementById("root").appendChild(big_div);
+    document.getElementById("body").appendChild(big_div);
 })

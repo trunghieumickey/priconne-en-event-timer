@@ -8,20 +8,6 @@
         "icon_src": "iblock"
     },
     {
-        "event_name": "Karyl (New Year)",
-        "start_time": "2022/12/03 23:00:00",
-        "end_time": "2022/12/13 22:59:59",
-        "icon_src": "banner_48",
-        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
-    },
-    {
-        "event_name": "Hiyori & Yui [New Year]",
-        "start_time": "2022/12/13 23:00:00",
-        "end_time": "2022/12/19 22:59:59",
-        "icon_src": "prize",
-        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
-    },
-    {
         "event_name": "Kokkoro (New Year)",
         "start_time": "2022/12/19 23:00:00",
         "end_time": "2023/01/04 22:59:59",
@@ -29,22 +15,29 @@
         "link": "22/12/12/princess-connect-re-dive-continues-the-new-year-extravaganza-with-kokkoro-new-year"
     },
     {
+        "event_name": "Kasumi (Magical)",
+        "start_time": "2023/01/04 23:00:00",
+        "end_time": "2023/01/14 22:59:59",
+        "icon_src": "banner_50",
+        "link": "22/12/28/princess-connect-re-dive-brings-the-magic-with-mistykasumi-and-purelyshiori"
+    },
+    {
+        "event_name": "Shizuru (Valentine)",
+        "start_time": "2023/01/14 23:00:00",
+        "end_time": "2023/01/19 22:59:59",
+        "icon_src": "prize",
+        "link": "22/12/28/princess-connect-re-dive-brings-the-magic-with-mistykasumi-and-purelyshiori"
+    },
+    {
         "event_name": "Story Event",
         "icon_src": "iblock"
     },
     {
-        "event_name": "The Landosol Guild Race",
-        "start_time": "2022/12/03 23:00:00",
-        "end_time": "2022/12/17 22:59:59",
+        "event_name": "We are Misty & Purely",
+        "start_time": "2023/01/04 23:00:00",
+        "end_time": "2023/01/17 22:59:59",
         "icon_src": "story",
-        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
-    },
-    {
-        "event_name": "New Year's Day Twinkle Crisis! (Re-run)",
-        "start_time": "2022/12/18 23:00:00",
-        "end_time": "2022/12/25 22:59:59",
-        "icon_src": "rerun",
-        "link": "22/12/12/princess-connect-re-dive-continues-the-new-year-extravaganza-with-kokkoro-new-year"
+        "link": "22/12/28/princess-connect-re-dive-brings-the-magic-with-mistykasumi-and-purelyshiori"
     },
     {
         "event_name": "Patch/Update",
@@ -52,28 +45,21 @@
     },
     {
         "event_name": "New Unique Equipment",
-        "start_time": "2022/12/13 09:00:00",
-        "end_time": "2022/12/13 09:00:00",
+        "start_time": "2023/01/04 09:00:00",
+        "end_time": "2023/01/04 09:00:00",
         "icon_src": "unique",
-        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
+        "link": "22/12/28/princess-connect-re-dive-brings-the-magic-with-mistykasumi-and-purelyshiori"
     },
     {
-        "event_name": "Update 31: Photella Cliffs (South)",
-        "start_time": "2022/12/19 13:00:00",
-        "end_time": "2022/12/19 13:00:00",
-        "icon_src": "update",
-        "link": "22/12/12/princess-connect-re-dive-continues-the-new-year-extravaganza-with-kokkoro-new-year"
+        "event_name": "Maho 6* Unlocked",
+        "start_time": "2023/01/04 09:00:00",
+        "end_time": "2023/01/04 09:00:00",
+        "icon_src": "6star",
+        "link": "22/12/28/princess-connect-re-dive-brings-the-magic-with-mistykasumi-and-purelyshiori"
     },
     {
         "event_name": "Luna Tower & Clan Battle",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "December Luna Tower",
-        "start_time": "2022/12/18 13:00:00",
-        "end_time": "2022/12/25 15:59:59",
-        "icon_src": "luna",
-        "link": "22/12/12/princess-connect-re-dive-continues-the-new-year-extravaganza-with-kokkoro-new-year"
     },
     {
         "event_name": "December Clan Battle",
@@ -85,27 +71,6 @@
     {
         "event_name": "Multiplier Events",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "2x Grotto",
-        "start_time": "2022/12/06 13:00:00",
-        "end_time": "2022/12/13 12:59:59",
-        "icon_src": "grotto",
-        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
-    },
-    {
-        "event_name": "2x Dungeon",
-        "start_time": "2022/12/14 13:00:00",
-        "end_time": "2022/12/20 12:59:59",
-        "icon_src": "dungeon",
-        "link": "22/11/28-1/princess-connect-re-dive-brings-in-the-new-year-early"
-    },
-    {
-        "event_name": "2x Grotto",
-        "start_time": "2022/12/18 13:00:00",
-        "end_time": "2022/12/25 12:59:59",
-        "icon_src": "grotto",
-        "link": "22/12/12/princess-connect-re-dive-continues-the-new-year-extravaganza-with-kokkoro-new-year"
     },
     {
         "event_name": "2x Normal Quest",
@@ -127,5 +92,19 @@
         "end_time": "2023/01/04 12:59:59",
         "icon_src": "expeditions",
         "link": "22/12/12/princess-connect-re-dive-continues-the-new-year-extravaganza-with-kokkoro-new-year"
+    },
+    {
+        "event_name": "2x Normal Quest",
+        "start_time": "2022/12/31 13:00:00",
+        "end_time": "2023/01/06 12:59:59",
+        "icon_src": "normal",
+        "link": "22/12/28/princess-connect-re-dive-brings-the-magic-with-mistykasumi-and-purelyshiori"
+    },
+    {
+        "event_name": "2x Grotto",
+        "start_time": "2023/01/06 12:59:59",
+        "end_time": "2023/01/18 12:59:59",
+        "icon_src": "grotto",
+        "link": "22/12/28/princess-connect-re-dive-brings-the-magic-with-mistykasumi-and-purelyshiori"
     }
 ]

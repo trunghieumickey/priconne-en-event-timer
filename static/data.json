@@ -4,15 +4,15 @@
         "icon_src": "iblock"
     },
     {
-        "event_name": "Focus Gacha",
-        "icon_src": "iblock"
+        "event_name": "140 Free Draws",
+        "start_time": "2023/01/19 23:00:00",
+        "end_time": "2023/02/02 22:59:59",
+        "icon_src": "freedraw",
+        "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
     },
     {
-        "event_name": "Kokkoro (New Year)",
-        "start_time": "2022/12/19 23:00:00",
-        "end_time": "2023/01/04 22:59:59",
-        "icon_src": "banner_49",
-        "link": "22/12/12/princess-connect-re-dive-continues-the-new-year-extravaganza-with-kokkoro-new-year"
+        "event_name": "Focus Gacha",
+        "icon_src": "iblock"
     },
     {
         "event_name": "Kasumi (Magical)",
@@ -25,8 +25,22 @@
         "event_name": "Shizuru (Valentine)",
         "start_time": "2023/01/14 23:00:00",
         "end_time": "2023/01/19 22:59:59",
-        "icon_src": "prize",
+        "icon_src": "prize1",
         "link": "22/12/28/princess-connect-re-dive-brings-the-magic-with-mistykasumi-and-purelyshiori"
+    },
+    {
+        "event_name": "Pecorine (Princess)",
+        "start_time": "2023/01/19 23:00:00",
+        "end_time": "2023/01/29 22:59:59",
+        "icon_src": "banner_51",
+        "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
+    },
+    {
+        "event_name": "[Summer] Suzuna & Saren",
+        "start_time": "2023/01/29 23:00:00",
+        "end_time": "2023/02/01 22:59:59",
+        "icon_src": "prize2",
+        "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
     },
     {
         "event_name": "Story Event",
@@ -40,65 +54,51 @@
         "link": "22/12/28/princess-connect-re-dive-brings-the-magic-with-mistykasumi-and-purelyshiori"
     },
     {
+        "event_name": "Rumble on Valentine's Day! (Re-run)",
+        "start_time": "2023/01/18 23:00:00",
+        "end_time": "2023/01/25 22:59:59",
+        "icon_src": "rerun",
+        "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
+    },
+    {
         "event_name": "Patch/Update",
         "icon_src": "iblock"
     },
     {
-        "event_name": "New Unique Equipment",
-        "start_time": "2023/01/04 09:00:00",
-        "end_time": "2023/01/04 09:00:00",
-        "icon_src": "unique",
-        "link": "22/12/28/princess-connect-re-dive-brings-the-magic-with-mistykasumi-and-purelyshiori"
+        "event_name": "Update 32: Fascia Forest (South)",
+        "start_time": "2023/01/18 13:00:00",
+        "end_time": "2023/01/18 13:00:00",
+        "icon_src": "update",
+        "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
     },
     {
-        "event_name": "Maho 6* Unlocked",
-        "start_time": "2023/01/04 09:00:00",
-        "end_time": "2023/01/04 09:00:00",
-        "icon_src": "6star",
-        "link": "22/12/28/princess-connect-re-dive-brings-the-magic-with-mistykasumi-and-purelyshiori"
+        "event_name": "Grotto Lv9 Unlocked",
+        "start_time": "2023/01/19 13:00:00",
+        "end_time": "2023/01/19 13:00:00",
+        "icon_src": "update",
+        "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
     },
     {
         "event_name": "Luna Tower & Clan Battle",
         "icon_src": "iblock"
     },
     {
-        "event_name": "December Clan Battle",
-        "start_time": "2022/12/26 13:00:00",
-        "end_time": "2022/12/31 07:59:59",
+        "event_name": "January Luna Tower",
+        "start_time": "2023/01/18 13:00:00",
+        "end_time": "2023/01/25 15:59:59",
+        "icon_src": "luna",
+        "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
+    },
+    {
+        "event_name": "January Clan Battle",
+        "start_time": "2023/01/26 13:00:00",
+        "end_time": "2023/01/31 07:59:59",
         "icon_src": "clan",
-        "link": "22/12/12/princess-connect-re-dive-continues-the-new-year-extravaganza-with-kokkoro-new-year"
+        "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
     },
     {
         "event_name": "Multiplier Events",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "2x Normal Quest",
-        "start_time": "2022/12/21 13:00:00",
-        "end_time": "2022/12/29 12:59:59",
-        "icon_src": "normal",
-        "link": "22/12/12/princess-connect-re-dive-continues-the-new-year-extravaganza-with-kokkoro-new-year"
-    },
-    {
-        "event_name": "2x Hard Quest",
-        "start_time": "2022/12/29 13:00:00",
-        "end_time": "2023/01/04 12:59:59",
-        "icon_src": "hard",
-        "link": "22/12/12/princess-connect-re-dive-continues-the-new-year-extravaganza-with-kokkoro-new-year"
-    },
-    {
-        "event_name": "2x Expeditions",
-        "start_time": "2022/12/28 13:00:00",
-        "end_time": "2023/01/04 12:59:59",
-        "icon_src": "expeditions",
-        "link": "22/12/12/princess-connect-re-dive-continues-the-new-year-extravaganza-with-kokkoro-new-year"
-    },
-    {
-        "event_name": "2x Normal Quest",
-        "start_time": "2022/12/31 13:00:00",
-        "end_time": "2023/01/06 12:59:59",
-        "icon_src": "normal",
-        "link": "22/12/28/princess-connect-re-dive-brings-the-magic-with-mistykasumi-and-purelyshiori"
     },
     {
         "event_name": "2x Grotto",
@@ -106,5 +106,33 @@
         "end_time": "2023/01/18 12:59:59",
         "icon_src": "grotto",
         "link": "22/12/28/princess-connect-re-dive-brings-the-magic-with-mistykasumi-and-purelyshiori"
+    },
+    {
+        "event_name": "3x Normal Quest",
+        "start_time": "2023/01/19 13:00:00",
+        "end_time": "2023/01/27 12:59:59",
+        "icon_src": "../normal",
+        "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
+    },
+    {
+        "event_name": "2x Grotto",
+        "start_time": "2023/01/20 13:00:00",
+        "end_time": "2023/01/25 12:59:59",
+        "icon_src": "grotto",
+        "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
+    },
+    {
+        "event_name": "2x Expeditions",
+        "start_time": "2023/01/27 13:00:00",
+        "end_time": "2023/01/31 12:59:59",
+        "icon_src": "expeditions",
+        "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
+    },
+    {
+        "event_name": "3x Hard Quest",
+        "start_time": "2023/01/29 13:00:00",
+        "end_time": "2023/02/03 12:59:59",
+        "icon_src": "../hard",
+        "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
     }
 ]

@@ -5,7 +5,7 @@
     },
     {
         "event_name": "140 Free Draws",
-        "start_time": "2023/01/19 23:00:00",
+        "start_time": "2023/01/19 13:00:00",
         "end_time": "2023/02/02 22:59:59",
         "icon_src": "freedraw",
         "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
@@ -76,6 +76,13 @@
         "start_time": "2023/01/19 13:00:00",
         "end_time": "2023/01/19 13:00:00",
         "icon_src": "update",
+        "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
+    },
+    {
+        "event_name": "Maintenance",
+        "start_time": "2023/01/25 23:00:00",
+        "end_time": "2023/01/26 05:00:00",
+        "icon_src": "maintenance",
         "link": "23/01/12/princess-connect-re-dive-celebrates-its-2-year-anniversary"
     },
     {

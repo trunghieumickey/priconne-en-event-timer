@@ -54,8 +54,15 @@
         "icon_src": "iblock"
     },
     {
-        "event_name": "Starlight Princess Re:M@STER!",
+        "event_name": "Starlight Princess Re:M@STER! EP1",
         "start_time": "2023/02/01 23:00:00",
+        "end_time": "2023/02/22 22:59:59",
+        "icon_src": "story",
+        "link": "23/01/25/princess-connect-re-dive-meets-the-idolmster-cinderella-girls"
+    },
+    {
+        "event_name": "Starlight Princess Re:M@STER! EP2",
+        "start_time": "2023/02/13 23:00:00",
         "end_time": "2023/02/22 22:59:59",
         "icon_src": "story",
         "link": "23/01/25/princess-connect-re-dive-meets-the-idolmster-cinderella-girls"

@@ -15,9 +15,11 @@ while True:
     if(not retrim):
         break
 
+newl = popen("curl https://got.cr/priconne-update").read().split("anime-news/20")[-1].split('"')[0]
+
 for i in data:
     if (i["icon_src"]!="iblock" and i["link"] == ""):
-        i["link"] = popen("curl https://got.cr/priconne-update").read().split("anime-news/20")[-1].split('"')[0]
+        i["link"] = newl
 
 with open(cwf, "w") as f:
     json.dump(data, f, indent=4)

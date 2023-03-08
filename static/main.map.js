@@ -134,7 +134,7 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         a.appendChild(document.createTextNode(content[i]));
         final_div.appendChild(a);
     }
-    big_div.className = "sub";
+    big_div.className = "card-container";
     big_div.append(final_div);
     document.getElementById("body").appendChild(big_div);
 })

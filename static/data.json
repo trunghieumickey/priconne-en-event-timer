@@ -68,7 +68,7 @@
         "event_name": "Maintenance",
         "start_time": "2023/03/26 23:00:00",
         "end_time": "2023/03/27 13:00:00",
-        "icon_src": "update",
+        "icon_src": "maintenance",
         "link": "23/03/15/princess-connect-re-dive-sparkles-in-chieru-speak"
     },
     {

@@ -69,7 +69,7 @@
         "icon_src": "iblock"
     },
     {
-        "event_name": "New Unique Equipment",
+        "event_name": "End of Service",
         "start_time": "2023/04/30 09:00:00",
         "end_time": "2023/04/30 09:00:00",
         "icon_src": "eos",

@@ -8,25 +8,11 @@
         "start_time": "2023/04/02 13:00:00",
         "end_time": "2023/04/09 13:59:59",
         "icon_src": "freedraw",
-        "link": ""
+        "link": "23/03/30/an-important-update-regarding-princess-connect-re-dive"
     },
     {
         "event_name": "Focus Gacha",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "Anne & Grea",
-        "start_time": "2023/03/14 23:00:00",
-        "end_time": "2023/03/19 22:59:59",
-        "icon_src": "prize2",
-        "link": "23/02/24/princess-connect-re-dive-gets-learning-with-yuni"
-    },
-    {
-        "event_name": "Chieru",
-        "start_time": "2023/03/19 23:00:00",
-        "end_time": "2023/03/28 22:59:59",
-        "icon_src": "focus1",
-        "link": "23/03/15/princess-connect-re-dive-sparkles-in-chieru-speak"
     },
     {
         "event_name": "Kyoka (Halloween)",
@@ -40,134 +26,57 @@
         "start_time": "2023/04/02 23:00:00",
         "end_time": "2023/04/12 22:59:59",
         "icon_src": "focus2",
-        "link": ""
+        "link": "23/03/30/an-important-update-regarding-princess-connect-re-dive"
     },
     {
         "event_name": "[Oedo] Kuka & Ninon",
         "start_time": "2023/04/12 23:00:00",
         "end_time": "2023/04/17 22:59:59",
         "icon_src": "prize2",
-        "link": ""
+        "link": "23/03/30/an-important-update-regarding-princess-connect-re-dive"
     },
     {
         "event_name": "Story Event",
         "icon_src": "iblock"
     },
     {
-        "event_name": "The Angelic Foundation",
-        "start_time": "2023/03/04 23:00:00",
-        "end_time": "2023/03/18 22:59:59",
-        "icon_src": "story",
-        "link": "23/02/24/princess-connect-re-dive-gets-learning-with-yuni"
-    },
-    {
-        "event_name": "The Twin Flowers of Astrum (Re-run)",
-        "start_time": "2023/03/19 23:00:00",
-        "end_time": "2023/03/26 22:59:59",
-        "icon_src": "rerun",
-        "link": "23/03/15/princess-connect-re-dive-sparkles-in-chieru-speak"
-    },
-    {
-        "event_name": "Little Lyrical Adventures! (Side)",
-        "start_time": "2023/03/19 23:00:00",
-        "end_time": "2023/03/19 23:00:00",
-        "icon_src": "side",
-        "link": "23/03/15/princess-connect-re-dive-sparkles-in-chieru-speak"
-    },
-    {
         "event_name": "Endeavors of a Broke Ranch",
         "start_time": "2023/04/02 23:00:00",
         "end_time": "2023/04/16 22:59:59",
         "icon_src": "story",
-        "link": ""
+        "link": "23/03/30/an-important-update-regarding-princess-connect-re-dive"
     },
     {
         "event_name": "Patch/Update",
         "icon_src": "iblock"
     },
     {
-        "event_name": "Update 33: Fascia Forest (East)",
-        "start_time": "2023/03/19 13:00:00",
-        "end_time": "2023/03/19 13:00:00",
-        "icon_src": "update",
-        "link": "23/03/15/princess-connect-re-dive-sparkles-in-chieru-speak"
-    },
-    {
-        "event_name": "Maintenance",
-        "start_time": "2023/03/26 23:00:00",
-        "end_time": "2023/03/27 13:00:00",
-        "icon_src": "maintenance",
-        "link": "23/03/15/princess-connect-re-dive-sparkles-in-chieru-speak"
-    },
-    {
         "event_name": "Tamaki 6* Unlocked",
         "start_time": "2023/04/02 09:00:00",
         "end_time": "2023/04/02 09:00:00",
         "icon_src": "6star",
-        "link": ""
+        "link": "23/03/30/an-important-update-regarding-princess-connect-re-dive"
     },
     {
         "event_name": "New Unique Equipment",
         "start_time": "2023/04/12 09:00:00",
         "end_time": "2023/04/12 09:00:00",
         "icon_src": "unique",
-        "link": ""
+        "link": "23/03/30/an-important-update-regarding-princess-connect-re-dive"
     },
     {
-        "event_name": "Luna Tower & Clan Battle",
+        "event_name": "End of Service",
         "icon_src": "iblock"
     },
     {
-        "event_name": "March Luna Tower",
-        "start_time": "2023/03/19 13:00:00",
-        "end_time": "2023/03/24 07:59:59",
-        "icon_src": "luna",
-        "link": "23/03/15/princess-connect-re-dive-sparkles-in-chieru-speak"
-    },
-    {
-        "event_name": "March Clan Battle",
-        "start_time": "2023/03/27 13:00:00",
-        "end_time": "2023/03/31 07:59:59",
-        "icon_src": "clan",
-        "link": "23/03/15/princess-connect-re-dive-sparkles-in-chieru-speak"
+        "event_name": "New Unique Equipment",
+        "start_time": "2023/04/30 09:00:00",
+        "end_time": "2023/04/30 09:00:00",
+        "icon_src": "eos",
+        "link": "23/03/30/an-important-update-regarding-princess-connect-re-dive"
     },
     {
         "event_name": "Multiplier Events",
         "icon_src": "iblock"
-    },
-    {
-        "event_name": "2x Dungeon",
-        "start_time": "2023/03/14 13:00:00",
-        "end_time": "2023/03/23 12:59:59",
-        "icon_src": "dungeon",
-        "link": "23/02/24/princess-connect-re-dive-gets-learning-with-yuni"
-    },
-    {
-        "event_name": "2x Expeditions",
-        "start_time": "2023/03/14 13:00:00",
-        "end_time": "2023/03/19 12:59:59",
-        "icon_src": "expeditions",
-        "link": "23/02/24/princess-connect-re-dive-gets-learning-with-yuni"
-    },
-    {
-        "event_name": "2x Normal Quest",
-        "start_time": "2023/03/19 13:00:00",
-        "end_time": "2023/03/26 12:59:59",
-        "icon_src": "normal",
-        "link": "23/03/15/princess-connect-re-dive-sparkles-in-chieru-speak"
-    },
-    {
-        "event_name": "2x Hard Quest",
-        "start_time": "2023/03/26 13:00:00",
-        "end_time": "2023/03/31 12:59:59",
-        "icon_src": "hard",
-        "link": "23/03/15/princess-connect-re-dive-sparkles-in-chieru-speak"
-    },
-    {
-        "event_name": "2x Expeditions",
-        "start_time": "2023/03/26 13:00:00",
-        "end_time": "2023/03/31 12:59:59",
-        "icon_src": "expeditions",
-        "link": "23/03/15/princess-connect-re-dive-sparkles-in-chieru-speak"
     }
 ]

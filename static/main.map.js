@@ -53,14 +53,15 @@ fetch('static/data.json').then(response => response.json()).then(data => {
             div = document.createElement('div'),
             end_time = new Date(item["end_time"]).getTime() - new Date().getTimezoneOffset() * 60000,
             start_time = new Date(item["start_time"]).getTime() - new Date().getTimezoneOffset() * 60000;
-        if (end_time < utc)
+        if (end_time < utc){
+            if (item["icon_src"] == "iblock") isDouble = false;
             continue;
+        }
         if (item["icon_src"] == "iblock") {
             if (isBlock) continue;
             div.className = "countdown-card iblock";
             div.innerHTML = item["event_name"];
             isBlock = true;
-            isDouble = false;
         } else {
             isBlock = false;
             let countdown = document.createElement('div'),

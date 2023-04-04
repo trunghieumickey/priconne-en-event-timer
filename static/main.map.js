@@ -45,9 +45,9 @@ fetch('static/data.json').then(response => response.json()).then(data => {
         protocol = "https://",
         cdn = protocol + "raw.githubusercontent.com/trunghieumickey/priconne-en-event-timer/gh-pages/image/",
         crh = protocol + "www.crunchyroll.com/anime-news/20",
-        href = ["got.cr/priconne-update", "github.com/trunghieumickey/priconne-en-event-timer", "forms.gle/67EqnZhHbjhDhabB7"],
+        href = ["got.cr/priconne-update", "github.com/trunghieumickey/priconne-en-event-timer", "https://gist.github.com/trunghieumickey/57e1f14a12e1131ff9d0aed3fe597ad4"],
         scr = ["crunchyroll", "github", "ggforms"],
-        content = ["Clownchyroll Notice", "Github Repository", "Feedback"];
+        content = ["Clownchyroll Notice", "Github Repository", "#SavePriConneGlobal"];
     for (let i = data.length - 1; i >= 0; i--) {
         let item = data[i],
             div = document.createElement('div'),
